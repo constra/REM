@@ -1,0 +1,691 @@
+Gene Name	ENSEMBL	EBI Protein ID	mRNA interactome 3 min (FDR 001)	mRNA interactome 30 min (FDR 001)	classical metabolic enzyme	EC number	EC classification	status	RBD	PAR-CL	cCL	conserved “core” RBP
+RPL17AA	RPL17AA	P05740	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+EFB1	YAL003W	P32471	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SSA1	YAL005C	P10591	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+CCR4	YAL021C	P31384	TRUE	FALSE				established in mRNA biology	unknownRBD	PAR-CL		
+FUN12	YAL035W	P39730	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+CDC19	YAL038W	P00549	TRUE	TRUE	TRUE	2.7.1.40	pyruvate kinase	unknown RNA biology	unknownRBD	PAR-CL		core
+RFA1	YAR007C	P22336	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL	cCL	
+UTP20	YBL004W	P35194	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+FUS3	YBL016W	P16892	TRUE	FALSE	TRUE	2.7.11.24	mitogen-activated protein kinase	related to mRNA biology	nonclassicalRBD	PAR-CL		
+NCL1	YBL024W	P38205	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+LSM2	YBL026W	P38203	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+PET9	YBL030C	P18239	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+HEK2	YBL032W	P38199	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+PRE7	YBL041W	P23724	FALSE	TRUE	TRUE	3.4.25.1	proteasome endopeptidase complex	unknown RNA biology	unknownRBD	PAR-CL		core
+PIN4	YBL051C	P34217	TRUE	TRUE				unknown RNA biology	classicalRBD	PAR-CL	cCL	
+RPS8A	YBL072C	P0CX39;P0CX40	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+ILS1	YBL076C	P09436	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+YBL081W	YBL081W	P38180	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+BOI1	YBL085W	P38041	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+MAP2	YBL091C	P38174	TRUE	FALSE	TRUE	3.4.11.18	methionyl aminopeptidase	unknown RNA biology	unknownRBD	PAR-CL		
+RPL32	YBL092W	P38061	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ECM21	YBL101C	P38167	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HHF1	YBR009C	P02309	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+KAP104	YBR017C	P38217	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+OLA1	YBR025C	P38219	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+AKL1	YBR059C	P38080	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+ECM2	YBR065C	P38241	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+RPG1	YBR079C	P38249	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+RPL19A	YBR084C-A	P0CX82;P0CX83	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+NHP6B	YBR089C-A	P11633	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+AIM3	YBR108W	P38266	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SHE3	YBR130C	P38272	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+CKS1	YBR135W	P20486	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SUP45	YBR143C	P12385	TRUE	TRUE				related to mRNA biology	classicalRBD	PAR-CL		core
+SMY2	YBR172C	P32909	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+RPS9B	YBR189W	P05755	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RPL21A	YBR191W	Q02753	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+PGI1	YBR196C	P12709	FALSE	TRUE	TRUE	5.3.1.9	glucose-6-phosphate isomerase	unknown RNA biology	unknownRBD	PAR-CL		core
+NGR1	YBR212W	P32831	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+PBP2	YBR233W	P38151	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+ARC40	YBR234C	P38328	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YBR238C	YBR238C	P38330	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL	cCL	
+ENP1	YBR247C	P38333	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+MTC4	YBR255W	P38335	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GBP2	YCL011C	P25555	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+GRX1	YCL035C	P25373	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GFD2	YCL036W	P25370	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SRO9	YCL037C	P25567	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+GLK1	YCL040W	P17709	TRUE	TRUE	TRUE	2.7.1.2	glucokinase	unknown RNA biology	unknownRBD	PAR-CL		
+APA1	YCL050C	P16550	FALSE	TRUE	TRUE	2.7.7.5;2.7.7.53	sulfate adenylyltransferase (ADP); ATP adenylyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+SAT4	YCR008W	P25333	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+RVS161	YCR009C	P25343	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PGK1	YCR012W	P00560	TRUE	TRUE	TRUE	2.7.2.3	phosphoglycerate kinase	unknown RNA biology	unknownRBD	PAR-CL		core
+RIM1	YCR028C-A	P32445	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SYP1	YCR030C	P25623	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PWP2	YCR057C		FALSE	FALSE				related to mRNA biology	unknownRBD		cCL	
+PAT1	YCR077C	P25644	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+ABP1	YCR088W	P15891	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+YCR090C	YCR090C	P25654	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NOP1	YDL014W	P15646	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+PRP9	YDL030W	P19736	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+DBP10	YDL031W	Q12389	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+NAT1	YDL040C	P12945	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+LHP1	YDL051W	P33399	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+PBP4	YDL053C	Q07362	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PSA1	YDL055C	P41940	FALSE	TRUE	TRUE	2.7.7.13	mannose-1-phosphate guanylyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+TSR1	YDL060W	Q07381	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPL31A	YDL075W	P0C2H8	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SUB2	YDL084W	Q07478	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+YDL085C-A	YDL085C-A	Q3E7B7	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YDL124W	YDL124W	Q07551	TRUE	TRUE	TRUE	1.2.1.-	With NAD+ or NADP+ as acceptor	unknown RNA biology	unknownRBD	PAR-CL		
+CDC48	YDL126C	P25694	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+CDC53	YDL132W	Q12018	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+RPO21	YDL140C	P04050	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+CCT4	YDL143W	P39078	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+COP1	YDL145C	P53622	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NOP14	YDL148C	Q99207	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+DHH1	YDL160C	P39517	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+NRP1	YDL167C	P32770	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+PAR32	YDL173W	Q12515	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+AIR2	YDL175C	Q12476	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+VMA1	YDL185W	P17255	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+RBS1	YDL189W	Q05672	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+ARF1	YDL192W	P11076	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+NOP6	YDL213C	Q07623	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+DTD1	YDL219W	Q07648	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+HBT1	YDL223C	Q07653	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+WHI4	YDL224C	Q07655	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+SSB1	YDL229W	P11484	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+YRB1	YDR002W	P41920	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RPL4B	YDR012W	P49626	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+FAL1	YDR021W	Q12099	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+SES1	YDR023W	P07284	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+RPS11A	YDR025W	P0CX47;P0CX48	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+KRS1	YDR037W	P15180	TRUE	FALSE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+VMS1	YDR049W	Q04311	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TPI1	YDR050C	P00942	TRUE	TRUE	TRUE	5.3.1.1	triose-phosphate isomerase	unknown RNA biology	unknownRBD	PAR-CL		core
+DET1	YDR051C	Q99288	FALSE	TRUE	TRUE	5.4.2.1	phosphoglycerate mutase (inactive entry)	unknown RNA biology	unknownRBD	PAR-CL		
+MAK21	YDR060W	Q12176	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	core
+RPS13	YDR064W	P05756	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+TPS2	YDR074W	P31688	FALSE	TRUE	TRUE	3.1.3.12	trehalose-phosphatase	unknown RNA biology	unknownRBD	PAR-CL		
+RRP8	YDR083W	P38961	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SLU7	YDR088C	Q02775	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+RLI1	YDR091C	Q03195	FALSE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+ARX1	YDR101C	Q03862	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TMA64	YDR117C	Q04600	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+VBA4	YDR119W	Q04602	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DPB4	YDR121W	Q04603	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SAC6	YDR129C	P32599	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YCF1	YDR135C	P39109	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+ENT5	YDR153C	Q03769	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CPR1	YDR155C	P14832	TRUE	TRUE	TRUE	5.2.1.8	peptidylprolyl isomerase	unknown RNA biology	unknownRBD	PAR-CL	cCL	core
+CWC15	YDR163W	Q03772	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+SEC1	YDR164C	P30619	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+CDC37	YDR168W	P06101	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YDR170W-A	YDR170W-A	Q03964	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+SUP35	YDR172W	P05453	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+UBC1	YDR177W	P21734	FALSE	TRUE	TRUE	6.3.2.19	ubiquitin—protein ligase	unknown RNA biology	unknownRBD	PAR-CL		
+MSS116	YDR194C	P15424	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+EBS1	YDR206W	Q03466	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+GCD6	YDR211W	P32501	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TCP1	YDR212W	P12612	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+AHA1	YDR214W	Q12449	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HTB1	YDR224C	P02293	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HTA1	YDR225W	P04911	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+ADK1	YDR226W	P07170	TRUE	TRUE	TRUE	2.7.4.3	adenylate kinase	unknown RNA biology	nonclassicalRBD	PAR-CL		
+RTN1	YDR233C	Q04947	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PRP42	YDR235W	Q03776	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SNU56	YDR240C	Q03782	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+PAM1	YDR251W	P37304	FALSE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+YDR266C	YDR266C	Q05580	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RRP45	YDR280W	Q05636	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+SSD1	YDR293C	P24276	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+BFR2	YDR299W	Q06631	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+CFT1	YDR301W	Q06632	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+UTP4	YDR324C	Q06679	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+YDR333C	YDR333C	Q05468	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YDR341C	YDR341C	Q05506	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+HXT6	YDR343C	P39003	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+YDR348C	YDR348C	Q05518	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SBE2	YDR351W	P42223	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TRR1	YDR353W	P29509	FALSE	TRUE	TRUE	1.8.1.9	thioredoxin-disulfide reductase	unknown RNA biology	unknownRBD	PAR-CL		
+ESF1	YDR365C	Q06344	TRUE	FALSE				established in mRNA biology	unknownRBD	PAR-CL		
+YRA1	YDR381W	Q12159	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+RVS167	YDR388W	P39743	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CAD1	YDR423C	P24813	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TIF35	YDR429C	Q04067	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+NPL3	YDR432W	Q01560	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+DOT1	YDR440W	Q04089	TRUE	FALSE	TRUE	2.1.1.43	histone-lysine N-methyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+UTP6	YDR449C	Q02354	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RPS18A	YDR450W	P0CX55;P0CX56	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+GUK1	YDR454C	P15454	FALSE	TRUE	TRUE	2.7.4.8	guanylate kinase	unknown RNA biology	unknownRBD	PAR-CL		
+SNF1	YDR477W	P06782	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		core
+CWC21	YDR482C	Q03375	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+PUF6	YDR496C	Q04373	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+PSP1	YDR505C	P50896	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL	cCL	
+SMT3	YDR510W	Q12306	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+GRX2	YDR513W	P17695	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SLF1	YDR515W	Q12034	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL	cCL	
+EMI2	YDR516C	Q04409	FALSE	TRUE	TRUE	2.7.1.2	glucokinase	related to mRNA biology	unknownRBD	PAR-CL		
+GRH1	YDR517W	Q04410	FALSE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+EDC3	YEL015W	P39998	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+HYP2	YEL034W	P23301	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RAD23	YEL037C	P32628	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YEL047C	YEL047C	P32614	FALSE	TRUE	TRUE	1.3.1.6	fumarate reductase (NADH)	related to mRNA biology	unknownRBD	PAR-CL		
+RPL12A	YEL054C	P0CX53;P0CX54	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+POL5	YEL055C	P39985	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+NOP16	YER002W	P40007	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+NUG1	YER006W	P40010	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+SEC3	YER008C	P33332	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PRP22	YER013W	P24384	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+GCD11	YER025W	P32481	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+SMB1	YER029C	P40018	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+YPT31	YER031C	P38555	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YER034W	YER034W	P40022	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+ARB1	YER036C	P40024	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SAH1	YER043C	P39954	TRUE	TRUE	TRUE	3.3.1.1	adenosylhomocysteinase	unknown RNA biology	unknownRBD	PAR-CL		
+SAP1	YER047C	P39955	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+THO1	YER063W	P40040	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+MOT2	YER068W	P34909	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+RPS24EA	YER074W	P0CX31	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+YER079W	YER079W	P40052	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+UTP7	YER082C	P40055	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+DOT6	YER088C	P40059	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+MET6	YER091C	P05694	FALSE	TRUE	TRUE	2.1.1.14	5-methyltetrahydropteroyltriglutamate—homocysteine S-methyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+KAP123	YER110C	P40069	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+SWI4	YER111C	P25302	TRUE	FALSE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+LSM4	YER112W	P40070	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+GLO3	YER122C	P38682	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RSP5	YER125W	P39940	FALSE	TRUE	TRUE	6.3.2.-	Acid—Amino-Acid Ligases (Peptide Synthases)	unknown RNA biology	unknownRBD	PAR-CL		
+NSA2	YER126C	P40078	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+YER137C	YER137C	P40083	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+MAG1	YER142C	P22134	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+LSM5	YER146W	P40089	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+UBP3	YER151C	Q01477	TRUE	TRUE	TRUE	3.4.19.12	ubiquitinyl hydrolase 1	established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+BEM2	YER155C	P39960	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL	cCL	
+PAB1	YER165W	P04147	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+ECM32	YER176W	P32644	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+BMH1	YER177W	P29311	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+WWM1	YFL010C	P43582	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HSP12	YFL014W	P22943	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+FRS2	YFL022C	P15625	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+BUD27	YFL023W	P43573	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RPO41	YFL036W	P13433	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+ACT1	YFL039C	P60010	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SEC53	YFL045C	P07283	TRUE	FALSE	TRUE	5.4.2.8	phosphomannomutase	unknown RNA biology	unknownRBD	PAR-CL		
+CMK1	YFR014C	P27466	FALSE	TRUE	TRUE	2.7.11.17	Ca2+/calmodulin-dependent protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+YFR016C	YFR016C	P43597	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+LSB3	YFR024C-A	P43603	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL2A	YFR031C-A	P0CX45;P0CX46	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+PHO4	YFR034C	P07270	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HXK1	YFR053C	P04806	FALSE	TRUE	TRUE	2.7.1.1	hexokinase	unknown RNA biology	unknownRBD	PAR-CL		
+PMA1	YGL008C	P05030	TRUE	TRUE	TRUE	3.6.3.6	H+-exporting ATPase	unknown RNA biology	unknownRBD	PAR-CL		
+LEU1	YGL009C	P07264	FALSE	TRUE	TRUE	4.2.1.33	3-isopropylmalate dehydratase	unknown RNA biology	unknownRBD	PAR-CL		
+PUF4	YGL014W	P25339	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+STT3	YGL022W	P39007	TRUE	FALSE	TRUE	2.4.1.119	dolichyl-diphosphooligosaccharide—protein glycotransferase (inactive entry)	unknown RNA biology	unknownRBD	PAR-CL		
+TRP5	YGL026C	P00931	FALSE	TRUE	TRUE	4.2.1.20	tryptophan synthase	unknown RNA biology	unknownRBD	PAR-CL		
+RPL30	YGL030W	P14120	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPL24A	YGL031C	P04449	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+PNC1	YGL037C	P53184	TRUE	TRUE	TRUE	3.5.1.19	nicotinamidase	unknown RNA biology	unknownRBD	PAR-CL		
+TIF4632	YGL049C	P39936	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+DBP3	YGL078C	P20447	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+LSG1	YGL099W	P53145	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	
+RPL28	YGL103W	P02406	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ARC1	YGL105W	P46672	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RMD9	YGL107C		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+CUE3	YGL110C	P53137	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PRP43	YGL120C	P53131	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+NAB2	YGL122C	P32505	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+RPS2	YGL123W	P25443	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+SEC27	YGL137W	P41811	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL9A	YGL147C	P05738	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+ARO2	YGL148W	P28777	FALSE	TRUE	TRUE	4.2.3.5	chorismate synthase	unknown RNA biology	unknownRBD	PAR-CL		
+XRN1	YGL173C	P22147	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+MPT5	YGL178W	P39016	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+RPS26A	YGL189C	P39938	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+GCN1	YGL195W	P33892	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ARO8	YGL202W	P53090	FALSE	TRUE	TRUE	2.6.1.39;2.6.1.57	2-aminoadipate transaminase; aromatic-amino-acid transaminase	unknown RNA biology	unknownRBD	PAR-CL		
+KIP3	YGL216W	P53086	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GUS1	YGL245W	P46655	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+RTG2	YGL252C	P32608	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HXK2	YGL253W	P04807	TRUE	TRUE	TRUE	2.7.1.1	hexokinase	unknown RNA biology	unknownRBD	PAR-CL		
+SNU71	YGR013W	P53207	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+RPL26B	YGR034W	P53221	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RME1	YGR044C	P32338	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YGR054W	YGR054W	P53235	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	core
+ART5	YGR068C	P53244	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+UPF3	YGR072W	P48412	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+PIL1	YGR086C	P53252	FALSE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+VAS1	YGR094W	P07806	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+NOP7	YGR103W	P53261	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+SPT6	YGR116W	P23615	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+RPS23A	YGR118W	P0CX29;P0CX30	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+UTP8	YGR128C	P53276	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+ENP2	YGR145W	P48234	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+CYS4	YGR155W		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+NSR1	YGR159C	P27476	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+TIF4631	YGR162W	P39935	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+YGR169C-A	YGR169C-A	Q3E772	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PSD2	YGR170W	P53037	FALSE	TRUE	TRUE	4.1.1.65	phosphatidylserine decarboxylase	unknown RNA biology	unknownRBD	PAR-CL		
+PBP1	YGR178C	P53297	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	
+TYS1	YGR185C		FALSE	FALSE				related to mRNA biology	nonclassicalRBD		cCL	
+TDH3	YGR192C	P00359	TRUE	TRUE	TRUE	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	unknown RNA biology	unknownRBD	PAR-CL		core
+TRX2	YGR209C	P22803	TRUE	TRUE	TRUE	1.8.1.9	thioredoxin-disulfide reductase	unknown RNA biology	unknownRBD	PAR-CL		core
+PFK1	YGR240C	P16861	FALSE	TRUE	TRUE	2.7.1.11	6-phosphofructokinase	unknown RNA biology	unknownRBD	PAR-CL		
+SDA1	YGR245C	P53313	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+YGR250C	YGR250C	P53316	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+ENO1	YGR254W	P00924	FALSE	TRUE	TRUE	4.2.1.11	phosphopyruvate hydratase	unknown RNA biology	unknownRBD	PAR-CL		core
+MES1	YGR264C	P00958	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+FOL2	YGR267C	P51601	FALSE	TRUE	TRUE	3.5.4.16	GTP cyclohydrolase I	unknown RNA biology	unknownRBD	PAR-CL		
+EFG1	YGR271C-A	Q3E705	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SLH1	YGR271W	P53327	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+CWC22	YGR278W	P53333	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+SCW4	YGR279C		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+ZUO1	YGR285C	P32527	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+STE20	YHL007C	Q03497	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL	cCL	
+ETP1	YHL010C	P38748	FALSE	TRUE				unknown RNA biology	classicalRBD	PAR-CL		
+OTU2	YHL013C	P38747	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RPS20	YHL015W	P38701	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+RPL8A	YHL033C	P17076	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SBP1	YHL034C	P10080	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+RPL27A	YHR010W	P0C2H6	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+MIP6	YHR015W	P38760	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+DED81	YHR019C	P38707	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+YHR020W	YHR020W	P38708	TRUE	FALSE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+THR1	YHR025W	P17423	FALSE	TRUE	TRUE	2.7.1.39	homoserine kinase	unknown RNA biology	unknownRBD	PAR-CL		
+VMA10	YHR039C-A	P48836	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CIC1	YHR052W	P38779	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RRP3	YHR065C	P38712	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+RRP4	YHR069C	P38792	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+OSH3	YHR073W	P38713	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NMD2	YHR077C	P38798	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+KSP1	YHR082C	P38691	TRUE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL	cCL	
+NAM8	YHR086W	Q00539	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+RPF1	YHR088W	P38805	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+GAR1	YHR089C	P28007	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+YHR097C	YHR097C	P38809	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GGA2	YHR108W	P38817	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SET1	YHR119W	P38827	FALSE	TRUE	TRUE	2.1.1.43	histone-lysine N-methyltransferase	related to mRNA biology	unknownRBD	PAR-CL		
+LSM12	YHR121W	P38828	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+YHR127W	YHR127W	P38833	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CRP1	YHR146W	P38845	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+KEL1	YHR158C	P38853	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PRP8	YHR165C	P33334	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+NMD3	YHR170W	P38861	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+ENO2	YHR174W	P00925	TRUE	TRUE	TRUE	4.2.1.11	phosphopyruvate hydratase	unknown RNA biology	unknownRBD	PAR-CL		core
+OYE2	YHR179W	Q03558	FALSE	TRUE	TRUE	1.6.99.1	NADPH dehydrogenase	unknown RNA biology	unknownRBD	PAR-CL		
+GND1	YHR183W	P38720	FALSE	TRUE	TRUE	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)	unknown RNA biology	unknownRBD	PAR-CL		
+UTP9	YHR196W	P38882	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+SCH9	YHR205W	P11792	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+IMD2	YHR216W		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+INP51	YIL002C	P40559	FALSE	TRUE	TRUE	3.1.3.36	phosphoinositide 5-phosphatase	unknown RNA biology	unknownRBD	PAR-CL		
+NOT3	YIL038C	P06102	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+CBR1	YIL043C	P38626	FALSE	TRUE	TRUE	1.6.2.2	cytochrome-b5 reductase	unknown RNA biology	unknownRBD	PAR-CL		
+RHR2	YIL053W	P41277	FALSE	TRUE	TRUE	3.1.3.-	Phosphoric Monoester Hydrolases	unknown RNA biology	unknownRBD	PAR-CL		
+YIL055C	YIL055C	P40523	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+THS1	YIL078W	P04801	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+AIR1	YIL079C	P40507	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+DPH1	YIL103W	P40487	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPI1	YIL119C	P23250	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL16A	YIL133C	P26784	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RRD1	YIL153W	P40454	FALSE	TRUE	TRUE	5.2.1.8	peptidylprolyl isomerase	unknown RNA biology	unknownRBD	PAR-CL		
+YIL161W	YIL161W	P40449	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SGN1	YIR001C	P40561	TRUE	TRUE				unknown RNA biology	classicalRBD	PAR-CL		core
+YVH1	YIR026C	Q02256	FALSE	TRUE	TRUE	3.1.3.48	protein-tyrosine-phosphatase	related to mRNA biology	unknownRBD	PAR-CL		
+HYR1	YIR037W	P40581	FALSE	TRUE	TRUE	1.11.1.15	peroxiredoxin	unknown RNA biology	unknownRBD	PAR-CL		
+CYR1	YJL005W	P08678	FALSE	TRUE	TRUE	4.6.1.1	adenylate cyclase	unknown RNA biology	unknownRBD	PAR-CL		
+CCT8	YJL008C	P47079	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+NOP9	YJL010C	P47077	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+HCA4	YJL033W	P20448	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+NSP1	YJL041W	P14907	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+MTR4	YJL050W	P47047	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+TDH1	YJL052W	P00360	FALSE	TRUE	TRUE	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	unknown RNA biology	unknownRBD	PAR-CL		core
+SCP160	YJL080C	P06105	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+TRL1	YJL087C	P09880	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+UTP10	YJL109C	P42945	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+MTC1	YJL123C	P47018	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+URA2	YJL130C	P07259	TRUE	TRUE	TRUE	2.1.3.2;6.3.5.5	aspartate carbamoyltransferase; carbamoyl-phosphate synthase (glutamine-hydrolysing)	unknown RNA biology	unknownRBD	PAR-CL		
+RPS21B	YJL136C	Q3E754	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+TIF2	YJL138C	P10081	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+HAL5	YJL165C	P38970	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+ERG20	YJL167W	P08524	FALSE	TRUE	TRUE	2.5.1.1;2.5.1.10	dimethylallyltranstransferase; (2E,6E)-farnesyl diphosphate synthase	unknown RNA biology	unknownRBD	PAR-CL		core
+SET2	YJL168C	P46995	TRUE	FALSE	TRUE	2.1.1.43	histone-lysine N-methyltransferase	unknown RNA biology	nonclassicalRBD	PAR-CL		
+RPS22A	YJL190C	P0C0W1	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPS14B	YJL191W	P39516	TRUE	TRUE				related to mRNA biology	classicalRBD	PAR-CL		core
+MPP10	YJR002W	P47083	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+SUI2	YJR007W	P20459	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+LSM8	YJR022W	P47093	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+PTK2	YJR059W	P47116	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+ARP3	YJR065C	P47117	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+JSN1	YJR091C	P47135	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+SOD1	YJR104C	P00445	FALSE	TRUE	TRUE	1.15.1.1	superoxide dismutase	unknown RNA biology	unknownRBD	PAR-CL		
+ADO1	YJR105W	P47143	FALSE	TRUE	TRUE	2.7.1.20	adenosine kinase	unknown RNA biology	unknownRBD	PAR-CL		core
+RPS5	YJR123W	P26783	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+MGM101	YJR144W	P32787	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPS4A	YJR145C	P0CX35;P0CX36	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+MRT4	YKL009W	P33201	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+URB1	YKL014C	P34241	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	
+MAK11	YKL021C	P20484	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+YKL023W	YKL023W	P36103	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+UGP1	YKL035W	P32861	FALSE	TRUE	TRUE	2.7.7.9	UTP—glucose-1-phosphate uridylyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+VPS24	YKL041W	P36095	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DEF1	YKL054C	P35732	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TMA19	YKL056C	P35691	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+MPE1	YKL059C	P35728	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+FBA1	YKL060C	P14540	TRUE	TRUE	TRUE	4.1.2.13	fructose-bisphosphate aldolase	unknown RNA biology	unknownRBD	PAR-CL		
+MUD2	YKL074C	P36084	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+VMA5	YKL080W	P31412	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TEF4	YKL081W	P36008	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RRP14	YKL082C	P36080	TRUE	FALSE				related to mRNA biology	unknownRBD	PAR-CL		
+CUE2	YKL090W	P36075	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GFA1	YKL104C	P14742	FALSE	TRUE	TRUE	2.6.1.16	glutamine—fructose-6-phosphate transaminase (isomerizing)	unknown RNA biology	unknownRBD	PAR-CL		
+SBA1	YKL117W	P28707	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YPK1	YKL126W	P12688	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+SHE2	YKL130C	P36068	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+CTK1	YKL139W	Q03957	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+DBR1	YKL149C	P24309	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+GPM1	YKL152C	P00950	FALSE	TRUE	TRUE	5.4.2.1	phosphoglycerate mutase	unknown RNA biology	unknownRBD	PAR-CL		
+RPS27A	YKL156W	P35997	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+EBP2	YKL172W	P36049	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+RPL17A	YKL180W	P05740	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+PRS1	YKL181W	P32895	FALSE	TRUE	TRUE	2.7.6.1	ribose-phosphate diphosphokinase	unknown RNA biology	unknownRBD	PAR-CL		
+FAS1	YKL182W	P07149	FALSE	TRUE	TRUE	1.3.1.9;2.3.1.38;2.3.1.39;2.3.1.86;3.1.2.14;4.2.1.61	fatty-acyl-CoA synthase	unknown RNA biology	unknownRBD	PAR-CL		
+MTR2	YKL186C	P34232	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+TOR2	YKL203C	P32600	FALSE	TRUE	TRUE	2.7.1.67;2.7.11.1	1-phosphatidylinositol 4-kinase; non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+EAP1	YKL204W	P36041	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+UBA1	YKL210W	P22515	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+YRA2	YKL214C	P36036	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+VPS1	YKR001C	P21576	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PAP1	YKR002W	P29468	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+IRS4	YKR019C	P36115	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YKR023W	YKR023W	P36119	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DBP7	YKR024C	P36120	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+UTP30	YKR060W	P36144	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+YKR078W	YKR078W	P36158	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPF2	YKR081C	P36160	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+MLP1	YKR095W		FALSE	FALSE				established in mRNA biology	unknownRBD		cCL	
+DRS1	YLL008W	P32892	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+SOF1	YLL011W	P33750	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+PUF3	YLL013C	Q07807	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+DPS1	YLL018C	P04802	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+SPA2	YLL021W	P23201	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SSA2	YLL024C	P10592	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+HSP104	YLL026W	P31539	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+YLL032C	YLL032C	Q07834	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+RIX7	YLL034C	Q07844	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+RPL8B	YLL045C	P29453	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SDO1	YLR022C	Q07953	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+SNF7	YLR025W	P39929	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL15A	YLR029C	P05748	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+TRX1	YLR043C	P22217	TRUE	TRUE	TRUE	1.8.1.9	thioredoxin-disulfide reductase	unknown RNA biology	unknownRBD	PAR-CL		core
+PDC1	YLR044C	P06169	TRUE	TRUE	TRUE	4.1.1.-;4.1.1.1	pyruvate decarboxylase	unknown RNA biology	unknownRBD	PAR-CL		
+RPS0B	YLR048W	P46654	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+REX2	YLR059C	P54964	TRUE	FALSE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+RPL22A	YLR061W	P05749	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPL10	YLR075W	P41805	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+KIN2	YLR096W	P13186	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+AHP1	YLR109W	P38013	FALSE	TRUE	TRUE	1.11.1.15	peroxiredoxin	unknown RNA biology	unknownRBD	PAR-CL		
+MSL5	YLR116W	Q12186	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+STM1	YLR150W	P39015	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPS31	YLR167W	P05759	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+CBF5	YLR175W	P33322	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+EMG1	YLR186W	Q06287	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+HCR1	YLR192C	Q05775	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+PWP1	YLR196W	P21304	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+NOP56	YLR197W	Q12460	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+CPR6	YLR216C	P53691	FALSE	TRUE	TRUE	5.2.1.8	peptidylprolyl isomerase	unknown RNA biology	unknownRBD	PAR-CL		
+RSA3	YLR221C	Q05942	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YEF3	YLR249W	P16521	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+HSP60	YLR259C	P19882	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+LCB5	YLR260W	Q06147	FALSE	TRUE	TRUE	2.7.1.91	sphinganine kinase	unknown RNA biology	unknownRBD	PAR-CL		
+TMA7	YLR262C-A	Q3E764	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPS28B	YLR264W	P0C0X0	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+DBP9	YLR276C	Q06218	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+RPS30A	YLR287C-A	P0CX33;P0CX34	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+YHC1	YLR298C	Q05900	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+IMH1	YLR309C	Q06704	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CDC3	YLR314C	P32457	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL38	YLR325C	P49167	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+NMA1	YLR328W	Q06178	FALSE	TRUE	TRUE	2.7.7.1	nicotinamide-nucleotide adenylyltransferase	unknown RNA biology	unknownRBD	PAR-CL		
+CHS5	YLR330W	Q12114	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPS25B	YLR333C	P0C0T4	TRUE	FALSE				related to mRNA biology	unknownRBD	PAR-CL		
+RPP0	YLR340W	P05317	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+FKS1	YLR342W	P38631	TRUE	TRUE	TRUE	2.4.1.34	1,3-β-glucan synthase	unknown RNA biology	unknownRBD	PAR-CL		
+ROM2	YLR371W	P51862	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CSR1	YLR380W	Q06705	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+IKI3	YLR384C	Q06706	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+RPS29A	YLR388W	P41057	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SKI2	YLR398C	P35207	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+DUS3	YLR401C	Q06053	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	core
+VIP1	YLR410W	Q06685	FALSE	TRUE	TRUE	2.7.4.21;2.7.4.24	inositol-hexakisphosphate kinase; diphosphoinositol-pentakisphosphate kinase	unknown RNA biology	nonclassicalRBD	PAR-CL		
+BER1	YLR412W	Q06688	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YLR419W	YLR419W	Q06698	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL	cCL	core
+MAG2	YLR427W	Q06436	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+SEN1	YLR430W		FALSE	FALSE				established in mRNA biology	nonclassicalRBD		cCL	
+IMD3	YLR432W		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+TSR2	YLR435W	Q06672	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+LSM3	YLR438C-A	P57743	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RPS1A	YLR441C	P33442	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPL6B	YLR448W	P05739	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SST2	YLR452C	P11972	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YAP1	YML007W	P19880	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SPT5	YML010W	P27692	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+PSP2	YML017W	P50109	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	
+RPS17A	YML024W	P02407	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+TSA1	YML028W	P34760	FALSE	TRUE	TRUE	1.11.1.15	peroxiredoxin	unknown RNA biology	unknownRBD	PAR-CL		core
+CGI121	YML036W	Q03705	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+IMD4	YML056C		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+RPS1B	YML063W	P23248	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPL6A	YML073C	Q02326	TRUE	FALSE				related to mRNA biology	unknownRBD	PAR-CL		
+FPR3	YML074C	P38911	FALSE	TRUE	TRUE	5.2.1.8	peptidylprolyl isomerase	unknown RNA biology	unknownRBD	PAR-CL		
+DUS1	YML080W	P53759	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+YML082W	YML082W	Q04533	FALSE	TRUE	TRUE	2.5.1.48	cystathionine γ-synthase	unknown RNA biology	unknownRBD	PAR-CL		
+UTP14	YML093W	Q04500	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+TSL1	YML100W	P38427	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NUP188	YML103C	P52593	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+BUL2	YML111W	Q03758	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+DAT1	YML113W	P13483	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+NAB6	YML117W	Q03735	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+CLU1	YMR012W	Q03690	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+BUD22	YMR014W	Q04347	TRUE	FALSE				related to mRNA biology	unknownRBD	PAR-CL		
+EIS1	YMR031C	Q05050	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+SUB1	YMR039C	P54000	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+MOT3	YMR070W	P54785	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SEC14	YMR079W	P24280	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NAM7	YMR080C	P30771	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+AIP1	YMR092C	P46680	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+UTP15	YMR093W	Q04305	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+YMR099C	YMR099C	Q03161	FALSE	TRUE	TRUE	5.1.3.15	glucose-6-phosphate 1-epimerase	unknown RNA biology	unknownRBD	PAR-CL		
+ASC1	YMR116C	P38011	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+STO1	YMR125W	P34160	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+ECM16	YMR128W	Q04217	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RRB1	YMR131C	Q04225	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SIP5	YMR140W	P40210	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL13B	YMR142C	P40212	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RPS16A	YMR143W	P0CX51;P0CX52	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TIF34	YMR146C	P40217	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+YMR147W	YMR147W	P40218	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DDR48	YMR173W	P18899	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+YMR178W	YMR178W	Q03219	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CTL1	YMR180C	Q03220	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+HSC82	YMR186W	P15108	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+PFK2	YMR205C	P16862	FALSE	TRUE	TRUE	2.7.1.11	6-phosphofructokinase	unknown RNA biology	unknownRBD	PAR-CL		
+EFR3	YMR212C	Q03653	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+GUA1	YMR217W	P38625	FALSE	TRUE	TRUE	6.3.5.2	GMP synthase (glutamine-hydrolysing)	unknown RNA biology	unknownRBD	PAR-CL		
+ESC1	YMR219W	Q03661	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RRP5	YMR229C	Q05022	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+RPS10B	YMR230W	P46784	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+RPL18A2	YMR242C	P0CX23	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+GFD1	YMR255W	Q04839	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+TIF11	YMR260C	P38912	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+YMR265C	YMR265C	Q03508	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PRP24	YMR268C	P49960	FALSE	TRUE				related to mRNA biology	classicalRBD	PAR-CL		
+ZDS1	YMR273C	P50111	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+NGL2	YMR285C	Q03264	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+HSH155	YMR288W	P49955	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+HAS1	YMR290C	Q03532	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+NIP1	YMR309C	P32497	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+RLP7	YNL002C		FALSE	FALSE				related to mRNA biology	unknownRBD		cCL	
+HRB1	YNL004W	P38922	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+PBI2	YNL015W	P01095	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+PUB1	YNL016W	P32588	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+YNL035C	YNL035C	P53962	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NOP2	YNL061W	P40991	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+YDJ1	YNL064C	P25491	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL16B	YNL069C	P26785	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+IMP4	YNL075W	P53941	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TPM1	YNL079C	P17536	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TOP2	YNL088W	P06786	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+RPS7B	YNL096C	P48164	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+DBP2	YNL112W	P24783	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+DCP2	YNL118C	P53550	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+NAF1	YNL124W	P53919	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+YNL134C	YNL134C	P53912	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+FPR1	YNL135C	P20081	FALSE	TRUE	TRUE	5.2.1.8	peptidylprolyl isomerase	unknown RNA biology	unknownRBD	PAR-CL		
+THO2	YNL139C	P53552	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+LSM7	YNL147W	P53905	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+YCK2	YNL154C	P23292	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+YGP1	YNL160W	P38616	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+BNI5	YNL166C	P53890	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+NOP13	YNL175C	P53883	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+RPS3	YNL178W	P05750	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+SRP1	YNL189W	Q02821	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+WHI3	YNL197C	P34761	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		
+RIO2	YNL207W	P40160	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+YNL208W	YNL208W	P40159	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+SSB2	YNL209W	P40150	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SQS1	YNL224C	P53866	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+LAP3	YNL239W	Q01532	TRUE	TRUE	TRUE	3.4.22.40	bleomycin hydrolase	established in mRNA biology	unknownRBD	PAR-CL		
+NAR1	YNL240C	P23503	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+SUI1	YNL244C	P32911	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+YNL247W	YNL247W	P53852	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+NRD1	YNL251C	P53617	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+TEX1	YNL253W	P53851	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+GIS2	YNL255C	P53849	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+POL2	YNL262W	P21951	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL	cCL	
+SEC21	YNL287W	P32074	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TRF5	YNL299W	P48561	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+MCK1	YNL307C	P21965	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+KRI1	YNL308C	P42846	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+PFS2	YNL317W	P42841	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+VPS27	YNR006W	P40343	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+ACC1	YNR016C	Q00955	FALSE	TRUE	TRUE	6.3.4.14;6.4.1.2	biotin carboxylase; acetyl-CoA carboxylase	unknown RNA biology	unknownRBD	PAR-CL		
+DBP6	YNR038W	P53734	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+MSO1	YNR049C	P53604	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+BRE5	YNR051C	P53741	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+NOG2	YNR053C	P53742	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ESF2	YNR054C	P53743	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+HTZ1	YOL012C	Q12692	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DIS3	YOL021C	Q08162	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RPS15	YOL040C	Q01855	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+NOP12	YOL041C	Q08208	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+GPD2	YOL059W	P41911	FALSE	TRUE	TRUE	1.1.1.8	glycerol-3-phosphate dehydrogenase (NAD+)	unknown RNA biology	unknownRBD	PAR-CL		
+MDM20	YOL076W	Q12387	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+BRX1	YOL077C	Q08235	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+ADH1	YOL086C	P00330	TRUE	TRUE	TRUE	1.1.1.1	alcohol dehydrogenase	unknown RNA biology	unknownRBD	PAR-CL		
+PKH2	YOL100W	Q12236	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+TPT1	YOL102C	Q12272	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+PAP2	YOL115W	P53632	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+RPL18A	YOL120C	P0CX49;P0CX50	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+HRP1	YOL123W	Q99383	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+RPL25	YOL127W	P04456	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+CDC33	YOL139C	P07260	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RRP6	YOR001W	Q12149	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+UTP23	YOR004W	Q12339	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+TSR3	YOR006C	Q12094	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+SGT2	YOR007C	Q12118	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+CUE5	YOR042W	Q08412	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DBP5	YOR046C	P20449	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RAT1	YOR048C	Q02792	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+NOB1	YOR056C	Q08444	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RPL3	YOR063W	P14126	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+TMA46	YOR091W	Q12000	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL	cCL	core
+RPS7A	YOR096W	P26786	TRUE	FALSE				related to mRNA biology	unknownRBD	PAR-CL		
+RIO1	YOR119C	Q12196	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+EFT1	YOR133W	P32324	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+PNO1	YOR145C	Q99216	TRUE	FALSE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+RPB2	YOR151C	P08518	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+PDR5	YOR153W	P33302	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DDP1	YOR163W	Q99321	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+GLN4	YOR168W	P13188	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	
+GSP2	YOR185C	P32836	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+MSB1	YOR188W	P21339	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+BFR1	YOR198C	P38934	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+DED1	YOR204W	P06634	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+NOC2	YOR206W	P39744	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	core
+RET1	YOR207C	P22276	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+RUD3	YOR216C	Q12234	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RFC1	YOR217W	P38630	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL33B	YOR234C	P41056	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+PUS7	YOR243C	Q08647	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RBL2	YOR265W	P48606	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+HRK1	YOR267C	Q08732	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+CAF20	YOR276W	P12962	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+YOR283W	YOR283W	Q12040	FALSE	TRUE	TRUE	5.4.2.1	phosphoglycerate mutase (inactive entry)	unknown RNA biology	unknownRBD	PAR-CL		
+RDL1	YOR285W	Q12305	FALSE	TRUE	TRUE	2.8.1.1	thiosulfate sulfurtransferase	unknown RNA biology	nonclassicalRBD	PAR-CL		
+RRS1	YOR294W	Q08746	TRUE	FALSE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+MBF1	YOR298C-A	O14467	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+NOP58	YOR310C	Q12499	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+ALA1	YOR335C	P40825	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+MSC6	YOR354C		FALSE	FALSE				unknown RNA biology	unknownRBD		cCL	
+SNX3	YOR357C	Q08826	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+VTS1	YOR359W	Q08831	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		
+PRT1	YOR361C	P06103	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+RPS12	YOR369C	P48589	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ALD4	YOR374W	P46367	TRUE	FALSE	TRUE	1.2.1.3	aldehyde dehydrogenase (NAD+)	unknown RNA biology	unknownRBD	PAR-CL		
+LSP1	YPL004C	Q12230	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+TAE2	YPL009C	Q12532	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL	cCL	
+RRP12	YPL012W	Q12754	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL	cCL	core
+TRM44	YPL030W	Q02648	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+SVL3	YPL032C	Q03088	FALSE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+NOP4	YPL043W	P37838	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+CAM1	YPL048W	P29547	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+LGE1	YPL055C	Q02796	TRUE	TRUE				unknown RNA biology	nonclassicalRBD	PAR-CL		
+ALD6	YPL061W	P54115	FALSE	TRUE	TRUE	1.2.1.3	aldehyde dehydrogenase (NAD+)	unknown RNA biology	unknownRBD	PAR-CL		core
+ELP3	YPL086C	Q02908	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+RPS6A	YPL090C	P0CX37;P0CX38	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+GLR1	YPL091W	P41921	FALSE	TRUE	TRUE	1.8.1.7	glutathione-disulfide reductase	unknown RNA biology	unknownRBD	PAR-CL		
+NOG1	YPL093W	Q02892	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SYH1	YPL105C	Q02875	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+SSE1	YPL106C	P32589	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HOS3	YPL116W	Q02959	TRUE	TRUE	TRUE	3.5.1.98	histone deacetylase	unknown RNA biology	unknownRBD	PAR-CL		
+DBP1	YPL119C	P24784	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+NAN1	YPL126W	Q02931	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+RPL5	YPL131W	P26321	FALSE	TRUE				related to mRNA biology	classicalRBD	PAR-CL		core
+RPL33A	YPL143W	P05744	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+NOP53	YPL146C	Q12080	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+CDC60	YPL160W	P26637	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+MEX67	YPL169C	Q99257	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+CBC2	YPL178W	Q08920	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+MRN1	YPL184C	Q08925	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+NAB3	YPL190C	P38996	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+APL5	YPL195W	Q08951	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+RPL7B	YPL198W	Q12213	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+HRR25	YPL204W	P29295	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		core
+TYW1	YPL207W	Q08960	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+SRP72	YPL210C	P38688	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+NIP7	YPL211W	Q08962	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL		core
+PUS1	YPL212C	Q12211	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+BMS1	YPL217C	Q08965	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	core
+SAR1	YPL218W	P20606	FALSE	TRUE	TRUE	3.6.5.-	Acting on GTP; involved in cellular and subcellular movement	unknown RNA biology	unknownRBD	PAR-CL		
+RPL1A	YPL220W	P0CX43;P0CX44	TRUE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		
+YPL225W	YPL225W	Q08971	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+NEW1	YPL226W	Q08972	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL	cCL	
+FAS2	YPL231W	P19097	FALSE	TRUE	TRUE	1.1.1.100;2.3.1.41;2.3.1.86	fatty-acyl-CoA synthase	unknown RNA biology	unknownRBD	PAR-CL		
+SUI3	YPL237W	P09064	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SRP68	YPL243W	P38687	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		core
+YPL245W	YPL245W	Q12179	TRUE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+DIM1	YPL266W	P41819	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+HAA1	YPR008W	Q12753	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+MCM4	YPR019W	P30665	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+HTS1	YPR033C	P07263	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL	cCL	core
+VMA13	YPR036W	P41807	FALSE	TRUE				unknown RNA biology	unknownRBD	PAR-CL		
+TIF5	YPR041W	P38431	TRUE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		core
+PUF2	YPR042C	Q12221	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+RPL43A	YPR043W	P0CX25;P0CX26	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+THP3	YPR045C	Q12049	FALSE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		
+NHP6A	YPR052C	P11632	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		
+TKL1	YPR074C	P23254	FALSE	TRUE	TRUE	2.2.1.1	transketolase	unknown RNA biology	unknownRBD	PAR-CL		
+TEF1	YPR080W	P02994	TRUE	TRUE				related to mRNA biology	nonclassicalRBD	PAR-CL		core
+SRP54	YPR088C	P20424	FALSE	TRUE				established in mRNA biology	nonclassicalRBD	PAR-CL		core
+RPL11A	YPR102C	P0C0W9	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+ISR1	YPR106W	Q06098	FALSE	TRUE	TRUE	2.7.11.1	non-specific serine/threonine protein kinase	unknown RNA biology	unknownRBD	PAR-CL		
+MRD1	YPR112C	Q06106	FALSE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	core
+RGC1	YPR115W	Q06108	TRUE	FALSE				unknown RNA biology	unknownRBD	PAR-CL		
+SCD6	YPR129W	P45978	TRUE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+RRP9	YPR137W	Q06506	FALSE	TRUE				related to mRNA biology	unknownRBD	PAR-CL		core
+SGV1	YPR161C	P23293	FALSE	TRUE	TRUE	2.7.11.22;2.7.11.23	cyclin-dependent kinase; 2.7.11.23	unknown RNA biology	unknownRBD	PAR-CL		
+TIF3	YPR163C	P34167	TRUE	TRUE				established in mRNA biology	classicalRBD	PAR-CL	cCL	
+SKI3	YPR189W	P17883	FALSE	TRUE				established in mRNA biology	unknownRBD	PAR-CL		

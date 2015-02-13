@@ -1,0 +1,679 @@
+in3min	in30min	name	ENSEMBL	GO	RBD
+FALSE	TRUE	RPL17AA	RPL17AA	unrelated	non-classical RBD
+TRUE	TRUE	RPL18A2	RPL18A2	unrelated	non-classical RBD
+TRUE	TRUE	RPS24EA	RPS24EA	unrelated	non-classical RBD
+TRUE	TRUE	TIF4631	TIF4631	unrelated	non-classical RBD
+TRUE	TRUE	TIF4632	TIF4632	unrelated	non-classical RBD
+TRUE	TRUE	EFB1	YAL003W	RNAbinding	unknown
+FALSE	TRUE	SSA1	YAL005C	unrelated	unknown
+TRUE	FALSE	CCR4	YAL021C	RNAbinding	unknown
+TRUE	TRUE	FUN12	YAL035W	RNAbinding	non-classical RBD
+TRUE	TRUE	CDC19	YAL038W	unrelated	unknown
+TRUE	TRUE	RFA1	YAR007C	unrelated	non-classical RBD
+TRUE	TRUE	UTP20	YBL004W	RNArelated	unknown
+TRUE	FALSE	FUS3	YBL016W	unrelated	unknown
+FALSE	TRUE	NCL1	YBL024W	RNAbinding	non-classical RBD
+FALSE	TRUE	LSM2	YBL026W	RNAbinding	non-classical RBD
+FALSE	TRUE	PET9	YBL030C	unrelated	unknown
+TRUE	TRUE	HEK2	YBL032W	RNAbinding	classical RBD
+FALSE	TRUE	PRE7	YBL041W	unrelated	unknown
+TRUE	TRUE	PIN4	YBL051C	unrelated	classical RBD
+TRUE	TRUE	RPS8A	YBL072C	RNArelated	non-classical RBD
+FALSE	TRUE	ILS1	YBL076C	RNArelated	unknown
+FALSE	TRUE	YBL081W	YBL081W	unrelated	unknown
+FALSE	TRUE	BOI1	YBL085W	unrelated	non-classical RBD
+TRUE	FALSE	MAP2	YBL091C	unrelated	unknown
+FALSE	TRUE	RPL32	YBL092W	RNArelated	non-classical RBD
+FALSE	TRUE	ECM21	YBL101C	unrelated	unknown
+TRUE	TRUE	HHF1	YBR009C	unrelated	unknown
+FALSE	TRUE	KAP104	YBR017C	unrelated	unknown
+FALSE	TRUE	OLA1	YBR025C	unrelated	non-classical RBD
+FALSE	TRUE	AKL1	YBR059C	unrelated	unknown
+FALSE	TRUE	ECM2	YBR065C	RNAbinding	unknown
+TRUE	TRUE	RPG1	YBR079C	unrelated	unknown
+TRUE	TRUE	RPL19A	YBR084C-A	RNArelated	non-classical RBD
+TRUE	TRUE	NHP6B	YBR089C-A	RNArelated	unknown
+FALSE	TRUE	AIM3	YBR108W	unrelated	unknown
+FALSE	TRUE	SHE3	YBR130C	unrelated	unknown
+FALSE	TRUE	CKS1	YBR135W	RNArelated	unknown
+TRUE	TRUE	SUP45	YBR143C	RNAbinding	non-classical RBD
+FALSE	TRUE	SMY2	YBR172C	unrelated	unknown
+TRUE	TRUE	RPS9B	YBR189W	RNAbinding	non-classical RBD
+TRUE	TRUE	RPL21A	YBR191W	RNArelated	non-classical RBD
+FALSE	TRUE	PGI1	YBR196C	unrelated	unknown
+TRUE	TRUE	NGR1	YBR212W	RNAbinding	classical RBD
+TRUE	TRUE	PBP2	YBR233W	RNAbinding	classical RBD
+FALSE	TRUE	ARC40	YBR234C	unrelated	non-classical RBD
+TRUE	TRUE	YBR238C	YBR238C	unrelated	unknown
+FALSE	TRUE	ENP1	YBR247C	RNAbinding	unknown
+FALSE	TRUE	MTC4	YBR255W	unrelated	unknown
+TRUE	TRUE	GBP2	YCL011C	RNAbinding	classical RBD
+TRUE	TRUE	GRX1	YCL035C	unrelated	unknown
+FALSE	TRUE	GFD2	YCL036W	unrelated	unknown
+TRUE	TRUE	SRO9	YCL037C	unrelated	classical RBD
+TRUE	TRUE	GLK1	YCL040W	unrelated	unknown
+FALSE	TRUE	APA1	YCL050C	unrelated	unknown
+FALSE	TRUE	SAT4	YCR008W	unrelated	unknown
+TRUE	TRUE	RVS161	YCR009C	unrelated	unknown
+TRUE	TRUE	PGK1	YCR012W	unrelated	unknown
+TRUE	TRUE	RIM1	YCR028C-A	unrelated	unknown
+FALSE	TRUE	SYP1	YCR030C	unrelated	unknown
+TRUE	TRUE	PAT1	YCR077C	unrelated	unknown
+TRUE	FALSE	ABP1	YCR088W	unrelated	unknown
+FALSE	TRUE	YCR090C	YCR090C	unrelated	unknown
+TRUE	TRUE	NOP1	YDL014W	RNAbinding	non-classical RBD
+FALSE	TRUE	PRP9	YDL030W	unrelated	non-classical RBD
+FALSE	TRUE	DBP10	YDL031W	RNAbinding	classical RBD
+TRUE	TRUE	NAT1	YDL040C	RNArelated	unknown
+TRUE	TRUE	LHP1	YDL051W	RNAbinding	classical RBD
+FALSE	TRUE	PBP4	YDL053C	unrelated	unknown
+FALSE	TRUE	PSA1	YDL055C	unrelated	unknown
+FALSE	TRUE	TSR1	YDL060W	unrelated	unknown
+FALSE	TRUE	RPL31A	YDL075W	RNArelated	non-classical RBD
+TRUE	TRUE	SUB2	YDL084W	unrelated	classical RBD
+FALSE	TRUE	YDL085C-A	YDL085C-A	unrelated	unknown
+TRUE	TRUE	YDL124W	YDL124W	unrelated	unknown
+FALSE	TRUE	CDC48	YDL126C	unrelated	unknown
+TRUE	FALSE	CDC53	YDL132W	unrelated	unknown
+TRUE	TRUE	RPO21	YDL140C	RNArelated	unknown
+FALSE	TRUE	CCT4	YDL143W	unrelated	unknown
+FALSE	TRUE	COP1	YDL145C	unrelated	non-classical RBD
+FALSE	TRUE	NOP14	YDL148C	RNAbinding	unknown
+TRUE	TRUE	DHH1	YDL160C	RNAbinding	classical RBD
+FALSE	TRUE	NRP1	YDL167C	RNAbinding	unknown
+FALSE	TRUE	PAR32	YDL173W	unrelated	unknown
+TRUE	TRUE	AIR2	YDL175C	RNArelated	non-classical RBD
+TRUE	TRUE	VMA1	YDL185W	unrelated	unknown
+FALSE	TRUE	RBS1	YDL189W	unrelated	non-classical RBD
+TRUE	TRUE	ARF1	YDL192W	unrelated	unknown
+FALSE	TRUE	NOP6	YDL213C	RNAbinding	unknown
+FALSE	TRUE	DTD1	YDL219W	unrelated	unknown
+FALSE	TRUE	HBT1	YDL223C	unrelated	unknown
+FALSE	TRUE	WHI4	YDL224C	RNAbinding	classical RBD
+TRUE	TRUE	SSB1	YDL229W	unrelated	unknown
+FALSE	TRUE	YRB1	YDR002W	unrelated	unknown
+TRUE	TRUE	RPL4B	YDR012W	RNArelated	non-classical RBD
+FALSE	TRUE	FAL1	YDR021W	RNAbinding	classical RBD
+FALSE	TRUE	SES1	YDR023W	RNArelated	unknown
+TRUE	TRUE	RPS11A	YDR025W	RNArelated	non-classical RBD
+TRUE	FALSE	KRS1	YDR037W	RNArelated	non-classical RBD
+FALSE	TRUE	VMS1	YDR049W	unrelated	unknown
+TRUE	TRUE	TPI1	YDR050C	unrelated	unknown
+FALSE	TRUE	DET1	YDR051C	unrelated	unknown
+TRUE	TRUE	MAK21	YDR060W	RNArelated	unknown
+TRUE	TRUE	RPS13	YDR064W	RNArelated	non-classical RBD
+FALSE	TRUE	TPS2	YDR074W	unrelated	unknown
+FALSE	TRUE	RRP8	YDR083W	unrelated	unknown
+FALSE	TRUE	SLU7	YDR088C	unrelated	unknown
+FALSE	TRUE	RLI1	YDR091C	unrelated	unknown
+FALSE	TRUE	ARX1	YDR101C	RNArelated	unknown
+FALSE	TRUE	TMA64	YDR117C	RNAbinding	unknown
+FALSE	TRUE	VBA4	YDR119W	unrelated	unknown
+FALSE	TRUE	DPB4	YDR121W	RNArelated	unknown
+FALSE	TRUE	SAC6	YDR129C	unrelated	unknown
+FALSE	TRUE	YCF1	YDR135C	unrelated	unknown
+FALSE	TRUE	ENT5	YDR153C	unrelated	unknown
+TRUE	TRUE	CPR1	YDR155C	unrelated	unknown
+FALSE	TRUE	CWC15	YDR163W	RNArelated	unknown
+FALSE	TRUE	SEC1	YDR164C	unrelated	unknown
+FALSE	TRUE	CDC37	YDR168W	unrelated	unknown
+TRUE	TRUE	YDR170W-A	YDR170W-A	RNAbinding	unknown
+TRUE	TRUE	SUP35	YDR172W	unrelated	non-classical RBD
+FALSE	TRUE	UBC1	YDR177W	unrelated	unknown
+TRUE	TRUE	MSS116	YDR194C	RNAbinding	classical RBD
+TRUE	TRUE	EBS1	YDR206W	RNArelated	unknown
+FALSE	TRUE	GCD6	YDR211W	RNAbinding	unknown
+FALSE	TRUE	TCP1	YDR212W	unrelated	unknown
+FALSE	TRUE	AHA1	YDR214W	unrelated	unknown
+TRUE	TRUE	HTB1	YDR224C	unrelated	unknown
+TRUE	FALSE	HTA1	YDR225W	unrelated	unknown
+TRUE	TRUE	ADK1	YDR226W	unrelated	unknown
+FALSE	TRUE	RTN1	YDR233C	unrelated	unknown
+FALSE	TRUE	PRP42	YDR235W	unrelated	unknown
+FALSE	TRUE	SNU56	YDR240C	unrelated	unknown
+FALSE	TRUE	PAM1	YDR251W	unrelated	unknown
+TRUE	TRUE	YDR266C	YDR266C	RNArelated	non-classical RBD
+FALSE	TRUE	RRP45	YDR280W	RNAbinding	non-classical RBD
+TRUE	TRUE	SSD1	YDR293C	RNAbinding	non-classical RBD
+TRUE	TRUE	BFR2	YDR299W	RNArelated	unknown
+TRUE	TRUE	CFT1	YDR301W	RNAbinding	unknown
+FALSE	TRUE	UTP4	YDR324C	RNArelated	non-classical RBD
+TRUE	TRUE	YDR333C	YDR333C	unrelated	unknown
+FALSE	TRUE	YDR341C	YDR341C	RNArelated	unknown
+TRUE	FALSE	HXT6	YDR343C	unrelated	unknown
+FALSE	TRUE	YDR348C	YDR348C	unrelated	unknown
+FALSE	TRUE	SBE2	YDR351W	unrelated	unknown
+FALSE	TRUE	TRR1	YDR353W	unrelated	unknown
+TRUE	FALSE	ESF1	YDR365C	RNAbinding	unknown
+TRUE	TRUE	YRA1	YDR381W	RNAbinding	classical RBD
+FALSE	TRUE	RVS167	YDR388W	unrelated	unknown
+FALSE	TRUE	CAD1	YDR423C	RNArelated	unknown
+TRUE	TRUE	TIF35	YDR429C	unrelated	classical RBD
+TRUE	TRUE	NPL3	YDR432W	RNAbinding	classical RBD
+TRUE	FALSE	DOT1	YDR440W	RNArelated	unknown
+FALSE	TRUE	UTP6	YDR449C	RNAbinding	unknown
+TRUE	TRUE	RPS18A	YDR450W	RNAbinding	non-classical RBD
+FALSE	TRUE	GUK1	YDR454C	unrelated	unknown
+FALSE	TRUE	SNF1	YDR477W	unrelated	unknown
+TRUE	TRUE	CWC21	YDR482C	RNArelated	unknown
+TRUE	FALSE	PUF6	YDR496C	RNAbinding	unknown
+TRUE	TRUE	PSP1	YDR505C	unrelated	unknown
+FALSE	TRUE	SMT3	YDR510W	unrelated	unknown
+FALSE	TRUE	GRX2	YDR513W	unrelated	unknown
+TRUE	TRUE	SLF1	YDR515W	unrelated	classical RBD
+FALSE	TRUE	EMI2	YDR516C	RNArelated	unknown
+FALSE	TRUE	GRH1	YDR517W	unrelated	unknown
+TRUE	TRUE	EDC3	YEL015W	RNArelated	unknown
+TRUE	TRUE	HYP2	YEL034W	RNAbinding	unknown
+FALSE	TRUE	RAD23	YEL037C	unrelated	unknown
+FALSE	TRUE	YEL047C	YEL047C	RNArelated	unknown
+TRUE	TRUE	RPL12A	YEL054C	RNArelated	non-classical RBD
+TRUE	TRUE	POL5	YEL055C	RNArelated	unknown
+TRUE	TRUE	NOP16	YER002W	RNArelated	unknown
+FALSE	TRUE	NUG1	YER006W	RNAbinding	non-classical RBD
+FALSE	TRUE	SEC3	YER008C	unrelated	unknown
+FALSE	TRUE	PRP22	YER013W	RNAbinding	classical RBD
+FALSE	TRUE	GCD11	YER025W	RNAbinding	non-classical RBD
+FALSE	TRUE	SMB1	YER029C	unrelated	non-classical RBD
+FALSE	TRUE	YPT31	YER031C	unrelated	unknown
+TRUE	TRUE	YER034W	YER034W	unrelated	unknown
+TRUE	TRUE	ARB1	YER036C	RNArelated	unknown
+TRUE	TRUE	SAH1	YER043C	unrelated	unknown
+FALSE	TRUE	SAP1	YER047C	unrelated	unknown
+TRUE	TRUE	THO1	YER063W	unrelated	non-classical RBD
+TRUE	TRUE	MOT2	YER068W	RNAbinding	classical RBD
+FALSE	TRUE	YER079W	YER079W	unrelated	unknown
+FALSE	TRUE	UTP7	YER082C	RNArelated	non-classical RBD
+FALSE	TRUE	DOT6	YER088C	RNArelated	unknown
+FALSE	TRUE	MET6	YER091C	unrelated	unknown
+FALSE	TRUE	KAP123	YER110C	RNArelated	unknown
+TRUE	FALSE	SWI4	YER111C	RNArelated	unknown
+TRUE	FALSE	LSM4	YER112W	RNAbinding	non-classical RBD
+TRUE	TRUE	GLO3	YER122C	unrelated	unknown
+FALSE	TRUE	RSP5	YER125W	unrelated	unknown
+FALSE	TRUE	NSA2	YER126C	RNArelated	non-classical RBD
+FALSE	TRUE	YER137C	YER137C	unrelated	unknown
+FALSE	TRUE	MAG1	YER142C	unrelated	unknown
+FALSE	TRUE	LSM5	YER146W	RNAbinding	non-classical RBD
+TRUE	TRUE	UBP3	YER151C	RNAbinding	unknown
+FALSE	TRUE	BEM2	YER155C	unrelated	unknown
+TRUE	TRUE	PAB1	YER165W	RNAbinding	classical RBD
+TRUE	TRUE	ECM32	YER176W	RNAbinding	unknown
+TRUE	TRUE	BMH1	YER177W	unrelated	unknown
+FALSE	TRUE	WWM1	YFL010C	unrelated	unknown
+TRUE	TRUE	HSP12	YFL014W	unrelated	unknown
+TRUE	TRUE	FRS2	YFL022C	RNAbinding	unknown
+FALSE	TRUE	BUD27	YFL023W	RNArelated	unknown
+FALSE	TRUE	RPO41	YFL036W	RNArelated	unknown
+FALSE	TRUE	ACT1	YFL039C	RNArelated	unknown
+TRUE	FALSE	SEC53	YFL045C	unrelated	unknown
+FALSE	TRUE	CMK1	YFR014C	unrelated	unknown
+TRUE	TRUE	YFR016C	YFR016C	unrelated	unknown
+FALSE	TRUE	LSB3	YFR024C-A	unrelated	unknown
+TRUE	TRUE	RPL2A	YFR031C-A	RNArelated	non-classical RBD
+FALSE	TRUE	PHO4	YFR034C	unrelated	unknown
+FALSE	TRUE	HXK1	YFR053C	unrelated	unknown
+TRUE	TRUE	PMA1	YGL008C	unrelated	unknown
+FALSE	TRUE	LEU1	YGL009C	unrelated	unknown
+TRUE	TRUE	PUF4	YGL014W	RNAbinding	classical RBD
+TRUE	FALSE	STT3	YGL022W	unrelated	unknown
+FALSE	TRUE	TRP5	YGL026C	unrelated	unknown
+TRUE	TRUE	RPL30	YGL030W	unrelated	non-classical RBD
+TRUE	TRUE	RPL24A	YGL031C	RNArelated	non-classical RBD
+TRUE	TRUE	PNC1	YGL037C	unrelated	unknown
+FALSE	TRUE	DBP3	YGL078C	RNAbinding	classical RBD
+TRUE	TRUE	LSG1	YGL099W	unrelated	non-classical RBD
+FALSE	TRUE	RPL28	YGL103W	RNArelated	non-classical RBD
+TRUE	TRUE	ARC1	YGL105W	RNAbinding	unknown
+FALSE	TRUE	CUE3	YGL110C	unrelated	unknown
+TRUE	TRUE	PRP43	YGL120C	unrelated	classical RBD
+TRUE	TRUE	NAB2	YGL122C	RNAbinding	unknown
+TRUE	TRUE	RPS2	YGL123W	RNAbinding	non-classical RBD
+TRUE	TRUE	SEC27	YGL137W	unrelated	non-classical RBD
+TRUE	TRUE	RPL9A	YGL147C	RNAbinding	non-classical RBD
+FALSE	TRUE	ARO2	YGL148W	unrelated	unknown
+TRUE	TRUE	XRN1	YGL173C	RNAbinding	non-classical RBD
+TRUE	TRUE	MPT5	YGL178W	RNAbinding	classical RBD
+TRUE	TRUE	RPS26A	YGL189C	RNArelated	non-classical RBD
+TRUE	TRUE	GCN1	YGL195W	RNArelated	unknown
+FALSE	TRUE	ARO8	YGL202W	unrelated	unknown
+FALSE	TRUE	KIP3	YGL216W	unrelated	unknown
+TRUE	TRUE	GUS1	YGL245W	RNAbinding	unknown
+FALSE	TRUE	RTG2	YGL252C	unrelated	unknown
+TRUE	TRUE	HXK2	YGL253W	unrelated	unknown
+FALSE	TRUE	SNU71	YGR013W	RNArelated	unknown
+FALSE	TRUE	RPL26B	YGR034W	RNArelated	unknown
+FALSE	TRUE	RME1	YGR044C	unrelated	non-classical RBD
+TRUE	TRUE	YGR054W	YGR054W	RNAbinding	unknown
+FALSE	TRUE	ART5	YGR068C	unrelated	unknown
+TRUE	TRUE	UPF3	YGR072W	RNArelated	unknown
+FALSE	TRUE	PIL1	YGR086C	unrelated	unknown
+TRUE	TRUE	VAS1	YGR094W	RNArelated	unknown
+TRUE	TRUE	NOP7	YGR103W	RNArelated	unknown
+TRUE	TRUE	SPT6	YGR116W	RNArelated	unknown
+TRUE	TRUE	RPS23A	YGR118W	RNArelated	non-classical RBD
+TRUE	FALSE	UTP8	YGR128C	RNAbinding	unknown
+FALSE	TRUE	ENP2	YGR145W	RNArelated	unknown
+TRUE	TRUE	NSR1	YGR159C	RNAbinding	classical RBD
+FALSE	TRUE	YGR169C-A	YGR169C-A	unrelated	unknown
+FALSE	TRUE	PSD2	YGR170W	unrelated	unknown
+TRUE	TRUE	PBP1	YGR178C	unrelated	unknown
+TRUE	TRUE	TDH3	YGR192C	unrelated	unknown
+TRUE	TRUE	TRX2	YGR209C	unrelated	unknown
+FALSE	TRUE	PFK1	YGR240C	unrelated	unknown
+TRUE	TRUE	SDA1	YGR245C	unrelated	unknown
+TRUE	TRUE	YGR250C	YGR250C	RNAbinding	classical RBD
+FALSE	TRUE	ENO1	YGR254W	unrelated	unknown
+TRUE	TRUE	MES1	YGR264C	RNArelated	unknown
+FALSE	TRUE	FOL2	YGR267C	unrelated	unknown
+FALSE	TRUE	EFG1	YGR271C-A	RNArelated	unknown
+TRUE	TRUE	SLH1	YGR271W	unrelated	classical RBD
+FALSE	TRUE	CWC22	YGR278W	RNArelated	non-classical RBD
+TRUE	TRUE	ZUO1	YGR285C	RNArelated	unknown
+FALSE	TRUE	STE20	YHL007C	unrelated	unknown
+FALSE	TRUE	ETP1	YHL010C	unrelated	unknown
+TRUE	TRUE	OTU2	YHL013C	RNArelated	unknown
+TRUE	TRUE	RPS20	YHL015W	RNAbinding	non-classical RBD
+FALSE	TRUE	RPL8A	YHL033C	RNArelated	non-classical RBD
+TRUE	TRUE	SBP1	YHL034C	unrelated	classical RBD
+TRUE	TRUE	RPL27A	YHR010W	RNArelated	non-classical RBD
+FALSE	TRUE	MIP6	YHR015W	RNAbinding	classical RBD
+FALSE	TRUE	DED81	YHR019C	RNArelated	non-classical RBD
+TRUE	FALSE	YHR020W	YHR020W	RNArelated	unknown
+FALSE	TRUE	THR1	YHR025W	unrelated	unknown
+FALSE	TRUE	VMA10	YHR039C-A	unrelated	unknown
+FALSE	TRUE	CIC1	YHR052W	RNAbinding	non-classical RBD
+FALSE	TRUE	RRP3	YHR065C	unrelated	classical RBD
+FALSE	TRUE	RRP4	YHR069C	unrelated	unknown
+TRUE	TRUE	OSH3	YHR073W	unrelated	unknown
+TRUE	TRUE	NMD2	YHR077C	RNArelated	non-classical RBD
+TRUE	TRUE	KSP1	YHR082C	unrelated	unknown
+FALSE	TRUE	NAM8	YHR086W	RNAbinding	classical RBD
+TRUE	TRUE	RPF1	YHR088W	unrelated	non-classical RBD
+TRUE	TRUE	GAR1	YHR089C	RNAbinding	non-classical RBD
+TRUE	TRUE	YHR097C	YHR097C	unrelated	unknown
+FALSE	TRUE	GGA2	YHR108W	unrelated	unknown
+FALSE	TRUE	SET1	YHR119W	unrelated	unknown
+TRUE	TRUE	LSM12	YHR121W	RNAbinding	unknown
+TRUE	TRUE	YHR127W	YHR127W	unrelated	unknown
+TRUE	TRUE	CRP1	YHR146W	unrelated	unknown
+FALSE	TRUE	KEL1	YHR158C	unrelated	unknown
+FALSE	TRUE	PRP8	YHR165C	RNArelated	classical RBD
+TRUE	TRUE	NMD3	YHR170W	RNArelated	unknown
+TRUE	TRUE	ENO2	YHR174W	unrelated	unknown
+FALSE	TRUE	OYE2	YHR179W	unrelated	unknown
+FALSE	TRUE	GND1	YHR183W	unrelated	unknown
+FALSE	TRUE	UTP9	YHR196W	RNAbinding	unknown
+FALSE	TRUE	SCH9	YHR205W	unrelated	unknown
+FALSE	TRUE	INP51	YIL002C	unrelated	unknown
+TRUE	TRUE	NOT3	YIL038C	RNArelated	unknown
+FALSE	TRUE	CBR1	YIL043C	unrelated	unknown
+FALSE	TRUE	RHR2	YIL053W	unrelated	unknown
+TRUE	TRUE	YIL055C	YIL055C	unrelated	unknown
+FALSE	TRUE	THS1	YIL078W	RNArelated	unknown
+FALSE	TRUE	AIR1	YIL079C	RNArelated	non-classical RBD
+FALSE	TRUE	DPH1	YIL103W	unrelated	unknown
+TRUE	TRUE	RPI1	YIL119C	unrelated	unknown
+FALSE	TRUE	RPL16A	YIL133C	RNArelated	non-classical RBD
+FALSE	TRUE	RRD1	YIL153W	unrelated	unknown
+TRUE	TRUE	YIL161W	YIL161W	unrelated	unknown
+TRUE	TRUE	SGN1	YIR001C	unrelated	classical RBD
+FALSE	TRUE	YVH1	YIR026C	RNArelated	unknown
+FALSE	TRUE	HYR1	YIR037W	unrelated	unknown
+FALSE	TRUE	CYR1	YJL005W	unrelated	unknown
+TRUE	FALSE	CCT8	YJL008C	unrelated	unknown
+TRUE	TRUE	NOP9	YJL010C	RNAbinding	classical RBD
+TRUE	TRUE	HCA4	YJL033W	unrelated	classical RBD
+FALSE	TRUE	NSP1	YJL041W	RNArelated	unknown
+TRUE	TRUE	MTR4	YJL050W	RNAbinding	classical RBD
+FALSE	TRUE	TDH1	YJL052W	unrelated	unknown
+TRUE	TRUE	SCP160	YJL080C	RNAbinding	classical RBD
+TRUE	TRUE	TRL1	YJL087C	RNArelated	unknown
+TRUE	TRUE	UTP10	YJL109C	RNAbinding	unknown
+FALSE	TRUE	MTC1	YJL123C	RNArelated	unknown
+TRUE	TRUE	URA2	YJL130C	unrelated	unknown
+FALSE	TRUE	RPS21B	YJL136C	RNArelated	non-classical RBD
+TRUE	TRUE	TIF2	YJL138C	unrelated	classical RBD
+FALSE	TRUE	HAL5	YJL165C	unrelated	unknown
+FALSE	TRUE	ERG20	YJL167W	unrelated	unknown
+TRUE	FALSE	SET2	YJL168C	RNArelated	unknown
+TRUE	TRUE	RPS22A	YJL190C	RNArelated	non-classical RBD
+TRUE	TRUE	RPS14B	YJL191W	RNArelated	non-classical RBD
+FALSE	TRUE	MPP10	YJR002W	RNArelated	unknown
+TRUE	TRUE	SUI2	YJR007W	RNAbinding	classical RBD
+FALSE	TRUE	LSM8	YJR022W	RNAbinding	non-classical RBD
+FALSE	TRUE	PTK2	YJR059W	unrelated	unknown
+TRUE	FALSE	ARP3	YJR065C	unrelated	unknown
+TRUE	TRUE	JSN1	YJR091C	RNAbinding	classical RBD
+FALSE	TRUE	SOD1	YJR104C	unrelated	unknown
+FALSE	TRUE	ADO1	YJR105W	unrelated	unknown
+TRUE	TRUE	RPS5	YJR123W	RNAbinding	non-classical RBD
+FALSE	TRUE	MGM101	YJR144W	unrelated	unknown
+TRUE	TRUE	RPS4A	YJR145C	RNAbinding	non-classical RBD
+FALSE	TRUE	MRT4	YKL009W	RNAbinding	non-classical RBD
+TRUE	TRUE	URB1	YKL014C	RNArelated	unknown
+FALSE	TRUE	MAK11	YKL021C	RNArelated	non-classical RBD
+TRUE	TRUE	YKL023W	YKL023W	unrelated	unknown
+FALSE	TRUE	UGP1	YKL035W	unrelated	unknown
+FALSE	TRUE	VPS24	YKL041W	unrelated	unknown
+TRUE	TRUE	DEF1	YKL054C	unrelated	unknown
+TRUE	TRUE	TMA19	YKL056C	unrelated	unknown
+FALSE	TRUE	MPE1	YKL059C	RNAbinding	unknown
+TRUE	TRUE	FBA1	YKL060C	unrelated	unknown
+TRUE	TRUE	MUD2	YKL074C	RNAbinding	unknown
+FALSE	TRUE	VMA5	YKL080W	unrelated	unknown
+TRUE	TRUE	TEF4	YKL081W	RNAbinding	unknown
+TRUE	FALSE	RRP14	YKL082C	unrelated	non-classical RBD
+FALSE	TRUE	CUE2	YKL090W	unrelated	unknown
+FALSE	TRUE	GFA1	YKL104C	unrelated	unknown
+FALSE	TRUE	SBA1	YKL117W	unrelated	unknown
+FALSE	TRUE	YPK1	YKL126W	unrelated	unknown
+TRUE	FALSE	SHE2	YKL130C	RNAbinding	unknown
+FALSE	TRUE	CTK1	YKL139W	RNArelated	unknown
+FALSE	TRUE	DBR1	YKL149C	RNArelated	unknown
+FALSE	TRUE	GPM1	YKL152C	unrelated	unknown
+TRUE	TRUE	RPS27A	YKL156W	RNArelated	non-classical RBD
+TRUE	TRUE	EBP2	YKL172W	RNArelated	unknown
+FALSE	TRUE	RPL17A	YKL180W	RNArelated	non-classical RBD
+FALSE	TRUE	PRS1	YKL181W	unrelated	unknown
+FALSE	TRUE	FAS1	YKL182W	unrelated	unknown
+FALSE	TRUE	MTR2	YKL186C	RNArelated	unknown
+FALSE	TRUE	TOR2	YKL203C	unrelated	unknown
+TRUE	TRUE	EAP1	YKL204W	RNArelated	unknown
+FALSE	TRUE	UBA1	YKL210W	unrelated	unknown
+TRUE	TRUE	YRA2	YKL214C	RNAbinding	classical RBD
+FALSE	TRUE	VPS1	YKR001C	unrelated	unknown
+FALSE	TRUE	PAP1	YKR002W	RNAbinding	unknown
+FALSE	TRUE	IRS4	YKR019C	unrelated	unknown
+FALSE	TRUE	YKR023W	YKR023W	RNArelated	unknown
+TRUE	TRUE	DBP7	YKR024C	RNAbinding	classical RBD
+FALSE	TRUE	UTP30	YKR060W	RNAbinding	non-classical RBD
+FALSE	TRUE	YKR078W	YKR078W	unrelated	unknown
+FALSE	TRUE	RPF2	YKR081C	unrelated	non-classical RBD
+FALSE	TRUE	DRS1	YLL008W	RNAbinding	classical RBD
+TRUE	TRUE	SOF1	YLL011W	unrelated	non-classical RBD
+TRUE	TRUE	PUF3	YLL013C	RNAbinding	classical RBD
+TRUE	TRUE	DPS1	YLL018C	RNAbinding	non-classical RBD
+FALSE	TRUE	SPA2	YLL021W	unrelated	unknown
+TRUE	TRUE	SSA2	YLL024C	unrelated	unknown
+TRUE	FALSE	HSP104	YLL026W	unrelated	unknown
+TRUE	TRUE	YLL032C	YLL032C	RNAbinding	classical RBD
+FALSE	TRUE	RIX7	YLL034C	unrelated	unknown
+TRUE	TRUE	RPL8B	YLL045C	RNArelated	non-classical RBD
+FALSE	TRUE	SDO1	YLR022C	unrelated	unknown
+FALSE	TRUE	SNF7	YLR025W	unrelated	unknown
+TRUE	TRUE	RPL15A	YLR029C	RNArelated	non-classical RBD
+TRUE	TRUE	TRX1	YLR043C	unrelated	unknown
+TRUE	TRUE	PDC1	YLR044C	unrelated	unknown
+TRUE	TRUE	RPS0B	YLR048W	RNArelated	non-classical RBD
+TRUE	FALSE	REX2	YLR059C	RNArelated	non-classical RBD
+TRUE	TRUE	RPL22A	YLR061W	RNArelated	non-classical RBD
+FALSE	TRUE	RPL10	YLR075W	RNArelated	non-classical RBD
+FALSE	TRUE	KIN2	YLR096W	unrelated	unknown
+FALSE	TRUE	AHP1	YLR109W	unrelated	unknown
+FALSE	TRUE	MSL5	YLR116W	RNAbinding	classical RBD
+TRUE	TRUE	STM1	YLR150W	unrelated	unknown
+TRUE	TRUE	RPS31	YLR167W	RNArelated	non-classical RBD
+TRUE	TRUE	CBF5	YLR175W	RNAbinding	classical RBD
+TRUE	TRUE	EMG1	YLR186W	RNAbinding	unknown
+FALSE	TRUE	HCR1	YLR192C	unrelated	unknown
+FALSE	TRUE	PWP1	YLR196W	unrelated	non-classical RBD
+TRUE	TRUE	NOP56	YLR197W	RNArelated	non-classical RBD
+FALSE	TRUE	CPR6	YLR216C	unrelated	unknown
+FALSE	TRUE	RSA3	YLR221C	unrelated	unknown
+TRUE	TRUE	YEF3	YLR249W	RNAbinding	unknown
+FALSE	TRUE	HSP60	YLR259C	unrelated	unknown
+FALSE	TRUE	LCB5	YLR260W	unrelated	unknown
+TRUE	TRUE	TMA7	YLR262C-A	unrelated	unknown
+TRUE	TRUE	RPS28B	YLR264W	RNArelated	non-classical RBD
+TRUE	TRUE	DBP9	YLR276C	RNAbinding	classical RBD
+FALSE	TRUE	RPS30A	YLR287C-A	RNArelated	non-classical RBD
+TRUE	TRUE	YHC1	YLR298C	RNAbinding	unknown
+FALSE	TRUE	IMH1	YLR309C	unrelated	unknown
+FALSE	TRUE	CDC3	YLR314C	unrelated	unknown
+FALSE	TRUE	RPL38	YLR325C	RNArelated	non-classical RBD
+FALSE	TRUE	NMA1	YLR328W	unrelated	unknown
+TRUE	TRUE	CHS5	YLR330W	RNArelated	unknown
+TRUE	FALSE	RPS25B	YLR333C	unrelated	non-classical RBD
+TRUE	TRUE	RPP0	YLR340W	RNArelated	non-classical RBD
+TRUE	TRUE	FKS1	YLR342W	unrelated	unknown
+FALSE	TRUE	ROM2	YLR371W	unrelated	unknown
+FALSE	TRUE	CSR1	YLR380W	unrelated	unknown
+FALSE	TRUE	IKI3	YLR384C	unrelated	unknown
+FALSE	TRUE	RPS29A	YLR388W	RNArelated	non-classical RBD
+TRUE	TRUE	SKI2	YLR398C	unrelated	classical RBD
+TRUE	TRUE	DUS3	YLR401C	RNArelated	unknown
+FALSE	TRUE	VIP1	YLR410W	unrelated	unknown
+FALSE	TRUE	BER1	YLR412W	unrelated	unknown
+TRUE	TRUE	YLR419W	YLR419W	unrelated	classical RBD
+TRUE	TRUE	MAG2	YLR427W	unrelated	non-classical RBD
+FALSE	TRUE	TSR2	YLR435W	unrelated	unknown
+TRUE	TRUE	LSM3	YLR438C-A	RNAbinding	non-classical RBD
+TRUE	TRUE	RPS1A	YLR441C	RNArelated	non-classical RBD
+TRUE	TRUE	RPL6B	YLR448W	RNArelated	non-classical RBD
+FALSE	TRUE	SST2	YLR452C	unrelated	unknown
+FALSE	TRUE	YAP1	YML007W	RNArelated	unknown
+TRUE	TRUE	SPT5	YML010W	RNArelated	unknown
+TRUE	TRUE	PSP2	YML017W	unrelated	unknown
+TRUE	TRUE	RPS17A	YML024W	RNArelated	non-classical RBD
+FALSE	TRUE	TSA1	YML028W	unrelated	unknown
+FALSE	TRUE	CGI121	YML036W	RNArelated	unknown
+TRUE	TRUE	RPS1B	YML063W	RNArelated	non-classical RBD
+TRUE	FALSE	RPL6A	YML073C	RNArelated	non-classical RBD
+FALSE	TRUE	FPR3	YML074C	unrelated	unknown
+FALSE	TRUE	DUS1	YML080W	RNArelated	unknown
+FALSE	TRUE	YML082W	YML082W	unrelated	unknown
+TRUE	TRUE	UTP14	YML093W	RNArelated	unknown
+FALSE	TRUE	TSL1	YML100W	unrelated	unknown
+FALSE	TRUE	NUP188	YML103C	RNArelated	unknown
+TRUE	FALSE	BUL2	YML111W	unrelated	unknown
+FALSE	TRUE	DAT1	YML113W	RNArelated	unknown
+TRUE	TRUE	NAB6	YML117W	RNAbinding	classical RBD
+TRUE	TRUE	CLU1	YMR012W	unrelated	unknown
+TRUE	FALSE	BUD22	YMR014W	RNArelated	unknown
+TRUE	FALSE	EIS1	YMR031C	unrelated	unknown
+TRUE	TRUE	SUB1	YMR039C	RNArelated	unknown
+FALSE	TRUE	MOT3	YMR070W	RNArelated	non-classical RBD
+FALSE	TRUE	SEC14	YMR079W	unrelated	unknown
+TRUE	TRUE	NAM7	YMR080C	RNArelated	non-classical RBD
+FALSE	TRUE	AIP1	YMR092C	unrelated	non-classical RBD
+FALSE	TRUE	UTP15	YMR093W	RNAbinding	non-classical RBD
+FALSE	TRUE	YMR099C	YMR099C	unrelated	unknown
+TRUE	TRUE	ASC1	YMR116C	RNArelated	non-classical RBD
+TRUE	TRUE	STO1	YMR125W	RNArelated	non-classical RBD
+FALSE	TRUE	ECM16	YMR128W	RNAbinding	classical RBD
+FALSE	TRUE	RRB1	YMR131C	unrelated	non-classical RBD
+FALSE	TRUE	SIP5	YMR140W	unrelated	unknown
+TRUE	TRUE	RPL13B	YMR142C	RNArelated	non-classical RBD
+FALSE	TRUE	RPS16A	YMR143W	RNArelated	non-classical RBD
+FALSE	TRUE	TIF34	YMR146C	unrelated	non-classical RBD
+FALSE	TRUE	YMR147W	YMR147W	unrelated	unknown
+TRUE	TRUE	DDR48	YMR173W	unrelated	unknown
+FALSE	TRUE	YMR178W	YMR178W	unrelated	unknown
+TRUE	FALSE	CTL1	YMR180C	RNArelated	unknown
+TRUE	TRUE	HSC82	YMR186W	unrelated	unknown
+FALSE	TRUE	PFK2	YMR205C	unrelated	unknown
+FALSE	TRUE	EFR3	YMR212C	unrelated	unknown
+FALSE	TRUE	GUA1	YMR217W	unrelated	unknown
+TRUE	TRUE	ESC1	YMR219W	RNArelated	unknown
+TRUE	TRUE	RRP5	YMR229C	RNAbinding	classical RBD
+TRUE	TRUE	RPS10B	YMR230W	unrelated	non-classical RBD
+TRUE	TRUE	GFD1	YMR255W	RNArelated	unknown
+TRUE	TRUE	TIF11	YMR260C	RNAbinding	unknown
+TRUE	TRUE	YMR265C	YMR265C	unrelated	unknown
+FALSE	TRUE	PRP24	YMR268C	unrelated	classical RBD
+FALSE	TRUE	ZDS1	YMR273C	RNArelated	unknown
+FALSE	TRUE	NGL2	YMR285C	RNAbinding	unknown
+FALSE	TRUE	HSH155	YMR288W	unrelated	unknown
+TRUE	TRUE	HAS1	YMR290C	unrelated	classical RBD
+TRUE	TRUE	NIP1	YMR309C	RNAbinding	unknown
+TRUE	TRUE	HRB1	YNL004W	unrelated	classical RBD
+FALSE	TRUE	PBI2	YNL015W	unrelated	unknown
+TRUE	TRUE	PUB1	YNL016W	unrelated	classical RBD
+FALSE	TRUE	YNL035C	YNL035C	unrelated	non-classical RBD
+TRUE	TRUE	NOP2	YNL061W	RNAbinding	non-classical RBD
+FALSE	TRUE	YDJ1	YNL064C	unrelated	unknown
+TRUE	TRUE	RPL16B	YNL069C	RNArelated	non-classical RBD
+FALSE	TRUE	IMP4	YNL075W	unrelated	non-classical RBD
+FALSE	TRUE	TPM1	YNL079C	unrelated	unknown
+FALSE	TRUE	TOP2	YNL088W	unrelated	unknown
+TRUE	TRUE	RPS7B	YNL096C	RNArelated	non-classical RBD
+TRUE	TRUE	DBP2	YNL112W	RNAbinding	classical RBD
+TRUE	TRUE	DCP2	YNL118C	RNAbinding	unknown
+FALSE	TRUE	NAF1	YNL124W	RNAbinding	non-classical RBD
+FALSE	TRUE	YNL134C	YNL134C	unrelated	unknown
+FALSE	TRUE	FPR1	YNL135C	unrelated	unknown
+FALSE	TRUE	THO2	YNL139C	unrelated	unknown
+TRUE	TRUE	LSM7	YNL147W	RNAbinding	non-classical RBD
+FALSE	TRUE	YCK2	YNL154C	unrelated	unknown
+TRUE	FALSE	YGP1	YNL160W	unrelated	unknown
+FALSE	TRUE	BNI5	YNL166C	unrelated	unknown
+FALSE	TRUE	NOP13	YNL175C	RNAbinding	classical RBD
+TRUE	TRUE	RPS3	YNL178W	RNAbinding	classical RBD
+FALSE	TRUE	SRP1	YNL189W	unrelated	unknown
+TRUE	TRUE	WHI3	YNL197C	RNAbinding	classical RBD
+FALSE	TRUE	RIO2	YNL207W	unrelated	unknown
+FALSE	TRUE	YNL208W	YNL208W	RNArelated	unknown
+FALSE	TRUE	SSB2	YNL209W	unrelated	unknown
+FALSE	TRUE	SQS1	YNL224C	unrelated	unknown
+TRUE	TRUE	LAP3	YNL239W	RNAbinding	unknown
+FALSE	TRUE	NAR1	YNL240C	unrelated	unknown
+FALSE	TRUE	SUI1	YNL244C	RNAbinding	unknown
+FALSE	TRUE	YNL247W	YNL247W	RNArelated	unknown
+FALSE	TRUE	NRD1	YNL251C	RNAbinding	classical RBD
+FALSE	TRUE	TEX1	YNL253W	unrelated	non-classical RBD
+TRUE	TRUE	GIS2	YNL255C	RNAbinding	non-classical RBD
+FALSE	TRUE	POL2	YNL262W	unrelated	unknown
+FALSE	TRUE	SEC21	YNL287W	unrelated	unknown
+FALSE	TRUE	TRF5	YNL299W	unrelated	non-classical RBD
+FALSE	TRUE	MCK1	YNL307C	unrelated	unknown
+TRUE	TRUE	KRI1	YNL308C	RNArelated	unknown
+FALSE	TRUE	PFS2	YNL317W	unrelated	non-classical RBD
+FALSE	TRUE	VPS27	YNR006W	unrelated	unknown
+FALSE	TRUE	ACC1	YNR016C	unrelated	unknown
+FALSE	TRUE	DBP6	YNR038W	RNAbinding	classical RBD
+FALSE	TRUE	MSO1	YNR049C	unrelated	unknown
+TRUE	TRUE	BRE5	YNR051C	RNAbinding	unknown
+TRUE	TRUE	NOG2	YNR053C	RNArelated	non-classical RBD
+FALSE	TRUE	ESF2	YNR054C	RNAbinding	unknown
+FALSE	TRUE	HTZ1	YOL012C	unrelated	unknown
+FALSE	TRUE	DIS3	YOL021C	RNAbinding	non-classical RBD
+TRUE	TRUE	RPS15	YOL040C	RNAbinding	non-classical RBD
+TRUE	TRUE	NOP12	YOL041C	RNAbinding	classical RBD
+FALSE	TRUE	GPD2	YOL059W	unrelated	unknown
+FALSE	TRUE	MDM20	YOL076W	unrelated	unknown
+FALSE	TRUE	BRX1	YOL077C	RNAbinding	non-classical RBD
+TRUE	TRUE	ADH1	YOL086C	unrelated	unknown
+FALSE	TRUE	PKH2	YOL100W	unrelated	unknown
+FALSE	TRUE	TPT1	YOL102C	RNArelated	unknown
+FALSE	TRUE	PAP2	YOL115W	unrelated	non-classical RBD
+TRUE	TRUE	RPL18A	YOL120C	RNArelated	non-classical RBD
+TRUE	TRUE	HRP1	YOL123W	unrelated	classical RBD
+TRUE	TRUE	RPL25	YOL127W	RNAbinding	non-classical RBD
+TRUE	TRUE	CDC33	YOL139C	RNAbinding	unknown
+FALSE	TRUE	RRP6	YOR001W	RNArelated	unknown
+TRUE	TRUE	UTP23	YOR004W	RNAbinding	unknown
+FALSE	TRUE	TSR3	YOR006C	unrelated	unknown
+FALSE	TRUE	SGT2	YOR007C	unrelated	unknown
+TRUE	TRUE	CUE5	YOR042W	unrelated	unknown
+TRUE	TRUE	DBP5	YOR046C	RNAbinding	classical RBD
+FALSE	TRUE	RAT1	YOR048C	RNArelated	non-classical RBD
+FALSE	TRUE	NOB1	YOR056C	RNAbinding	unknown
+TRUE	TRUE	RPL3	YOR063W	RNArelated	non-classical RBD
+TRUE	TRUE	TMA46	YOR091W	unrelated	unknown
+TRUE	FALSE	RPS7A	YOR096W	RNArelated	non-classical RBD
+FALSE	TRUE	RIO1	YOR119C	unrelated	unknown
+TRUE	TRUE	EFT1	YOR133W	RNAbinding	non-classical RBD
+TRUE	FALSE	PNO1	YOR145C	RNAbinding	unknown
+TRUE	TRUE	RPB2	YOR151C	RNArelated	unknown
+FALSE	TRUE	PDR5	YOR153W	unrelated	unknown
+FALSE	TRUE	DDP1	YOR163W	unrelated	unknown
+FALSE	TRUE	GLN4	YOR168W	RNArelated	unknown
+TRUE	TRUE	GSP2	YOR185C	unrelated	unknown
+FALSE	TRUE	MSB1	YOR188W	unrelated	unknown
+TRUE	TRUE	BFR1	YOR198C	RNAbinding	unknown
+TRUE	TRUE	DED1	YOR204W	RNAbinding	classical RBD
+TRUE	TRUE	NOC2	YOR206W	RNArelated	unknown
+FALSE	TRUE	RET1	YOR207C	RNArelated	unknown
+FALSE	TRUE	RUD3	YOR216C	unrelated	unknown
+FALSE	TRUE	RFC1	YOR217W	unrelated	unknown
+FALSE	TRUE	RPL33B	YOR234C	RNArelated	non-classical RBD
+TRUE	TRUE	PUS7	YOR243C	RNAbinding	non-classical RBD
+FALSE	TRUE	RBL2	YOR265W	unrelated	unknown
+FALSE	TRUE	HRK1	YOR267C	unrelated	unknown
+TRUE	TRUE	CAF20	YOR276W	RNAbinding	unknown
+FALSE	TRUE	YOR283W	YOR283W	unrelated	unknown
+FALSE	TRUE	RDL1	YOR285W	unrelated	unknown
+TRUE	FALSE	RRS1	YOR294W	unrelated	unknown
+TRUE	TRUE	MBF1	YOR298C-A	RNArelated	unknown
+TRUE	TRUE	NOP58	YOR310C	RNArelated	non-classical RBD
+TRUE	TRUE	ALA1	YOR335C	RNAbinding	unknown
+FALSE	TRUE	SNX3	YOR357C	unrelated	unknown
+FALSE	TRUE	VTS1	YOR359W	RNAbinding	non-classical RBD
+TRUE	TRUE	PRT1	YOR361C	RNAbinding	classical RBD
+TRUE	TRUE	RPS12	YOR369C	RNArelated	non-classical RBD
+TRUE	FALSE	ALD4	YOR374W	unrelated	unknown
+TRUE	TRUE	LSP1	YPL004C	unrelated	unknown
+TRUE	TRUE	TAE2	YPL009C	unrelated	unknown
+TRUE	TRUE	RRP12	YPL012W	unrelated	unknown
+FALSE	TRUE	TRM44	YPL030W	unrelated	unknown
+FALSE	TRUE	SVL3	YPL032C	unrelated	unknown
+TRUE	TRUE	NOP4	YPL043W	RNAbinding	classical RBD
+FALSE	TRUE	CAM1	YPL048W	RNAbinding	unknown
+TRUE	TRUE	LGE1	YPL055C	RNArelated	unknown
+FALSE	TRUE	ALD6	YPL061W	unrelated	unknown
+FALSE	TRUE	ELP3	YPL086C	RNArelated	unknown
+TRUE	TRUE	RPS6A	YPL090C	RNArelated	non-classical RBD
+FALSE	TRUE	GLR1	YPL091W	unrelated	unknown
+FALSE	TRUE	NOG1	YPL093W	RNArelated	unknown
+FALSE	TRUE	SYH1	YPL105C	unrelated	unknown
+FALSE	TRUE	SSE1	YPL106C	unrelated	unknown
+TRUE	TRUE	HOS3	YPL116W	unrelated	unknown
+TRUE	TRUE	DBP1	YPL119C	RNAbinding	classical RBD
+TRUE	TRUE	NAN1	YPL126W	RNAbinding	non-classical RBD
+FALSE	TRUE	RPL5	YPL131W	RNArelated	non-classical RBD
+FALSE	TRUE	RPL33A	YPL143W	RNArelated	non-classical RBD
+TRUE	TRUE	NOP53	YPL146C	RNAbinding	unknown
+FALSE	TRUE	CDC60	YPL160W	RNArelated	unknown
+FALSE	TRUE	MEX67	YPL169C	RNAbinding	unknown
+FALSE	TRUE	CBC2	YPL178W	RNAbinding	classical RBD
+TRUE	TRUE	MRN1	YPL184C	RNAbinding	classical RBD
+TRUE	TRUE	NAB3	YPL190C	RNAbinding	classical RBD
+TRUE	TRUE	APL5	YPL195W	unrelated	unknown
+TRUE	TRUE	RPL7B	YPL198W	RNArelated	non-classical RBD
+FALSE	TRUE	HRR25	YPL204W	unrelated	unknown
+FALSE	TRUE	TYW1	YPL207W	unrelated	unknown
+FALSE	TRUE	SRP72	YPL210C	RNAbinding	non-classical RBD
+FALSE	TRUE	NIP7	YPL211W	RNAbinding	unknown
+FALSE	TRUE	PUS1	YPL212C	RNAbinding	non-classical RBD
+FALSE	TRUE	BMS1	YPL217C	RNAbinding	non-classical RBD
+FALSE	TRUE	SAR1	YPL218W	unrelated	unknown
+TRUE	TRUE	RPL1A	YPL220W	RNAbinding	non-classical RBD
+FALSE	TRUE	YPL225W	YPL225W	RNArelated	unknown
+TRUE	TRUE	NEW1	YPL226W	RNArelated	unknown
+FALSE	TRUE	FAS2	YPL231W	unrelated	unknown
+FALSE	TRUE	SUI3	YPL237W	RNAbinding	unknown
+FALSE	TRUE	SRP68	YPL243W	unrelated	unknown
+TRUE	TRUE	YPL245W	YPL245W	unrelated	unknown
+FALSE	TRUE	DIM1	YPL266W	RNAbinding	non-classical RBD
+FALSE	TRUE	HAA1	YPR008W	RNArelated	unknown
+FALSE	TRUE	MCM4	YPR019W	unrelated	unknown
+TRUE	TRUE	HTS1	YPR033C	RNArelated	unknown
+FALSE	TRUE	VMA13	YPR036W	unrelated	unknown
+TRUE	TRUE	TIF5	YPR041W	RNAbinding	unknown
+FALSE	TRUE	PUF2	YPR042C	RNAbinding	classical RBD
+FALSE	TRUE	RPL43A	YPR043W	RNArelated	non-classical RBD
+FALSE	TRUE	THP3	YPR045C	unrelated	unknown
+TRUE	TRUE	NHP6A	YPR052C	RNArelated	unknown
+FALSE	TRUE	TKL1	YPR074C	unrelated	unknown
+TRUE	TRUE	TEF1	YPR080W	RNAbinding	non-classical RBD
+FALSE	TRUE	SRP54	YPR088C	RNAbinding	unknown
+TRUE	TRUE	RPL11A	YPR102C	RNArelated	non-classical RBD
+FALSE	TRUE	ISR1	YPR106W	unrelated	unknown
+FALSE	TRUE	MRD1	YPR112C	RNAbinding	classical RBD
+TRUE	FALSE	RGC1	YPR115W	unrelated	unknown
+TRUE	TRUE	SCD6	YPR129W	unrelated	unknown
+FALSE	TRUE	RRP9	YPR137W	unrelated	non-classical RBD
+FALSE	TRUE	SGV1	YPR161C	unrelated	unknown
+TRUE	TRUE	TIF3	YPR163C	unrelated	classical RBD
+FALSE	TRUE	SKI3	YPR189W	unrelated	unknown

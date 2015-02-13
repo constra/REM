@@ -1,0 +1,2339 @@
+EnsemblID	Name	MESC	HeLa	HEK293	HUH7
+ENSMUSG00000026276	37500	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059248	40057	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000058013	40787	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000015126	0610007P22Rik	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000037361	0610009D07Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000046909	1110002N22Rik	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000021023	1110008L16Rik	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000052105	1110012J17Rik	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000040720	1110037F02Rik	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000063236	1110038F14Rik	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000038544	1110054O05Rik	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000053286	1190005F20Rik	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000020495	1200011M11Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020783	1200014J11Rik	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000020741	1300001I01Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000002210	1500002O20Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028287	1700009N14Rik	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000027327	1700037H04Rik	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000032566	1700080E11Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032977	1810008A18Rik	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000071653	1810009A15Rik	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000078784	1810022K09Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000070394	1810027O10Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025591	1810029B16Rik	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000021040	1810035L17Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002580	1810046J19Rik	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000051671	1810063B05Rik	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029882	2210010C04Rik	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000029559	2210016L21Rik	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000030980	2310008H09Rik	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000049643	2310022A10Rik	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000020441	2310033P09Rik	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027502	2410001C21Rik	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000029815	2410003K15Rik	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000036873	2410004B18Rik	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000001017	2500003M10Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000034889	2510012J08Rik	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000050052	2610019F03Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019297	2610027L16Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032407	2610101N10Rik	RNAbinding	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000033712	2610301G19Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022748	2610528E23Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021807	2700060E02Rik	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000076437	2700094K13Rik	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000031984	2810004N23Rik	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000012429	2810021B07Rik	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028060	2810403A07Rik	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036114	2810432D09Rik	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000079737	3110001I22Rik	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053553	3110082I17Rik	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000060657	4921513D23Rik	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000022179	4931414P19Rik	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000040412	5330417C22Rik	no evidence	RNAbinding		no evidence
+ENSMUSG00000045917	6330416G13Rik	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020956	6530401N04Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027424	8430406I07Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030060	8430410A17Rik	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000052595	A1cf	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000038884	A230050P20Rik	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000049287	A230051G13Rik	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000030111	A2m	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000047613	A430005L14Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000045838	A430105I19Rik	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000044150	A830080D01Rik	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031792	AA960436	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000057230	Aak1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031960	Aars	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000018697	Aatf	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021240	Abcd4	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000058355	Abce1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038762	Abcf1	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000028953	Abcf2	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000036376	Abt1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000047323	AC168060.1	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000036138	Acaa1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000010651	Acaa1b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036880	Acaa2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000018574	Acadvl	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000023832	Acat2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000062480	Acat3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022185	Acin1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020917	Acly	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028405	Aco1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000044573	Acp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032883	Acsl3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031278	Acsl4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015143	Actn1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000054808	Actn4	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000020152	Actr2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026341	Actr3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027951	Adar	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020262	Adarb1	candidate RBP	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000052551	Adarb2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000029106	Add1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000039197	Adk	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000022407	Adsl	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030609	Aen	RNAbinding	candidate RBP	no evidence	no evidence
+ENSMUSG00000054932	Afp	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000029722	Agfg2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042410	Agps	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041936	Agrn	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031980	Agt	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027597	Ahcy	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000069833	Ahnak	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000021037	Ahsa1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000040771	AI314976	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000060935	AI597468	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000047423	AI837181	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000036932	Aifm1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028029	Aimp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029610	Aimp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024847	Aip	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028792	Ak2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028527	Ak4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018428	Akap1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038587	Akap12	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000059708	Akap17b	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000038729	Akap2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024045	Akap8	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002625	Akap8l	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039158	Akna	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022636	Alcam	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025007	Aldh18a1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021238	Aldh6a1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000030695	Aldoa	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000059343	Aldoart1	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000063129	Aldoart2	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000017390	Aldoc	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041718	Alg13	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000042650	Alkbh5	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040310	Alx4	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000025134	Alyref	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060244	Alyref2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041915	Ammecr1l	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000026634	Angel2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004105	Angptl2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000069601	Ank3	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024483	Ankhd1	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000055204	Ankrd17	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000036777	Anln	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000032249	Anp32a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028333	Anp32b	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000021866	Anxa11	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000032231	Anxa2	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000027712	Anxa5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018340	Anxa6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021814	Anxa7	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000020198	Ap3d1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004931	Apba3	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000032590	Apeh	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000035960	Apex1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000027193	Api5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028070	Apoa1bp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020609	Apob	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000009585	Apobec3	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000002985	Apoe	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006589	Aprt	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000040383	Aqr	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032096	Arcn1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000048076	Arf1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000021877	Arf4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030881	Arfip2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027247	Arhgap1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039031	Arhgap18	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035133	Arhgap5	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000025132	Arhgdia	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000040940	Arhgef1	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000028059	Arhgef2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004562	Arhgef40	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030654	Arl6ip1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029404	Arl6ip4	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000029622	Arpc1b	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000048355	Arxes1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000048040	Arxes2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000044475	Ascc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038774	Ascc3	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000020884	Asgr1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000052456	Asna1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028207	Asph	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000076441	Ass1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000026192	Atic	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024759	Atl3	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000018585	Atox1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031862	Atp13a1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033161	Atp1a1	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000026576	Atp1b1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032412	Atp1b3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029467	Atp2a2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000025428	Atp5a1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000025393	Atp5b	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000025781	Atp5c1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000000563	Atp5f1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022956	Atp5o	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027546	Atp9a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000054428	Atpif1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042605	Atxn2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032637	Atxn2l	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027496	Aurka	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020897	Aurkb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000003604	Aven	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000000142	Axin2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037053	Azgp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004085	B230120H23Rik	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000030847	Bag3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037316	Bag4	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000024392	Bag6	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000024844	Banf1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026851	BC005624	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027580	BC006779	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038827	BC026590	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036208	BC027231	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000038806	BC031781	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000040658	BC048355	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000002015	Bcap31	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030983	Bccip	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000037525	Bcdin3d	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000063382	Bcl9l	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037608	Bclaf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000050071	Bex1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000014329	Bicc1	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000004446	Bid	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024381	Bin1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030528	Blm	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000040466	Blvrb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030138	Bms1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000061755	Bod1l	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015943	Bola1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000025977	Boll	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022557	Bop1	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000027483	Bpifa1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027484	Bpifa5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022247	Brix1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023861	Brp44l	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000023175	Bsg	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028392	Bspry	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000046718	Bst2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000021660	Btf3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028568	Btf3l4	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032077	Bud13	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000023988	Bysl	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000051223	Bzw1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020547	Bzw2	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000018446	C1qbp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000052137	C430048L16Rik	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026405	C4bp	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000014226	Cacybp	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000013629	Cad	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000029761	Cald1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000003814	Calr	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000020114	Cand1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000020368	Canx	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028656	Cap1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027184	Caprin1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030309	Caprin2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000015733	Capza2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028745	Capzb	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000027562	Car2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000008393	Carhsp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078676	Casc3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031012	Cask	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000005355	Casp14	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021585	Cast	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000027187	Cat	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036686	Cc2d1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020074	Ccar1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040213	Ccbl2	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000047021	Ccdc108	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000007721	Ccdc124	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000049957	Ccdc137	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000037443	Ccdc21	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022035	Ccdc25	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020925	Ccdc43	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000078622	Ccdc47	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000038127	Ccdc50	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037958	Ccdc55	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000019897	Ccdc59	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000091537	Ccdc72	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024732	Ccdc86	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000067872	Ccdc87	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000021182	Ccdc88c	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000041375	Ccdc9	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026166	Ccl20	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041431	Ccnb1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028252	Ccnc	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000034108	Ccs	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034024	Cct2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000001416	Cct3	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000007739	Cct4	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000022234	Cct5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029447	Cct6a	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020698	Cct6b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000030007	Cct7	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025613	Cct8	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000022661	Cd200	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000061665	Cd2ap	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000047649	Cd3eap	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000005087	Cd44	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032679	Cd59a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000068686	Cd59b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037706	Cd81	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000006398	Cdc20	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000038446	Cdc40	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000006699	Cdc42	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000041598	Cdc42ep4	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000023932	Cdc5l	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000029062	Cdk11b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041297	Cdk13	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000044303	Cdkn2a	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000038069	Cdkn2aip	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000032803	Cdv3	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000024081	Cebpz	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005506	Celf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002107	Celf2	RNAbinding	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000028137	Celf3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000034818	Celf5	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000018509	Cenpv	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000057335	Cep170	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000019971	Cep290	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031954	Cfdp1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000054604	Cggbp1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000068876	Cgn	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031781	Ciapin1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000045193	Cirbp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041438	Cirh1a	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000037710	Cisd1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000028165	Cisd2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000046841	Ckap4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040549	Ckap5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001270	Ckb	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000033392	Clasp2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000002190	Clgn	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006169	Clint1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000032316	Clk3	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000020385	Clk4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030720	Cln3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025439	Clns1a	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000047126	Cltc	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000022037	Clu	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028719	Cmpk1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030057	Cnbp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004665	Cnn2	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000053931	Cnn3	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000036550	Cnot1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020166	Cnot2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000035632	Cnot3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038784	Cnot4	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000038070	Cntln	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031772	Cntnap4	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022371	Col14a1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000001435	Col18a1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000001506	Col1a1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022483	Col2a1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000025650	Col7a1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000026553	Copa	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032458	Copb2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000030058	Copg	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000025917	Cops5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030707	Coro1a	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000004530	Coro1c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031827	Cotl1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031818	Cox4i1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000017778	Cox7c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020841	Cpd	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039782	Cpeb2	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000039652	Cpeb3	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020300	Cpeb4	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025867	Cplx2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000074643	Cpne1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028228	Cpne3	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000025991	Cps1	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000029625	Cpsf4	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000055531	Cpsf6	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000034820	Cpsf7	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028607	Cpt2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006356	Crip2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000006134	Crkl	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000001767	Crnkl1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000032060	Cryab	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028199	Cryz	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005683	Cs	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000030189	Csda	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000068823	Csde1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002718	Cse1l	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000046934	Csl	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000025162	Csnk1d	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022433	Csnk1e	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000026421	Csrp1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020186	Csrp2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000005054	Cstb	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000027498	Cstf1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000031256	Cstf2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053536	Cstf2t	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027176	Cstf3	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000037373	Ctbp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005698	Ctcf	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037815	Ctnna1	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000063063	Ctnna2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006932	Ctnnb1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034101	Ctnnd1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000028633	Ctps	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000017760	Ctsa	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000007891	Ctsd	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031078	Cttn	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000024231	Cul2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031095	Cul4b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000004096	Cwc15	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000027014	Cwc22	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021715	Cwc27	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000025200	Cwf19l1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025898	Cwf19l2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022865	Cxadr	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000046668	Cxxc5	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031924	Cyb5b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018042	Cyb5r3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022551	Cyc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001783	D10Wsu52e	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040651	D14Abb1e	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000019579	D17Wsu104e	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041360	D19Bwg1357e	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000039224	D1Pas1	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000027331	D2Ertd750e	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000039660	D2Wsu81e	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042498	D330045A20Rik	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000037266	D4Wsu53e	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024104	D6Wsu116e	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000019362	D8Ertd738e	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000033767	D930015E06Rik	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000022174	Dad1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039952	Dag1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039168	Dap	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000068921	Dap3	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026356	Dars	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026709	Dars2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000069565	Dazap1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000000346	Dazap2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000010592	Dazl	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000026385	Dbi	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000020476	Dbnl	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032469	Dbr1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000000340	Dbt	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022300	Dcaf13	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000019929	Dcn	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000051674	Dcun1d4	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024740	Ddb1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028757	Ddost	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000068290	Ddrgk1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037149	Ddx1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053289	Ddx10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000055065	Ddx17	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001674	Ddx18	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000015023	Ddx19a	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000027905	Ddx20	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020075	Ddx21	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003360	Ddx23	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000041645	Ddx24	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000017999	Ddx27	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000045538	Ddx28	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026806	Ddx31	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000005481	Ddx39	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000019432	Ddx39b	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000000787	Ddx3x	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000069045	Ddx3y	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021494	Ddx41	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000020705	Ddx42	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000070291	Ddx43	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000021500	Ddx46	RNAbinding	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000030204	Ddx47	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000057788	Ddx49	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000020719	Ddx5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020076	Ddx50	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029504	Ddx51	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020677	Ddx52	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029599	Ddx54	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000029389	Ddx55	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000004393	Ddx56	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032097	Ddx6	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028223	Decr1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021377	Dek	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023106	Denr	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022718	Dgcr8	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034926	Dhcr24	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000058454	Dhcr7	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000029169	Dhx15	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024422	Dhx16	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000042426	Dhx29	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000032480	Dhx30	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000040620	Dhx33	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000006019	Dhx34	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000027770	Dhx36	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029480	Dhx37	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000037993	Dhx38	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000035051	Dhx57	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000034931	Dhx8	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042699	Dhx9	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024456	Diap1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000038914	Dido1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000016181	Diexf	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021692	Dimt1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033166	Dis3	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000053333	Dis3l2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031403	Dkc1	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020664	Dld	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000042102	Dmgdh	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000037416	Dmxl1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028410	Dnaja1	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000031701	Dnaja2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004069	Dnaja3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020109	Dnajb12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026740	Dnajc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029014	Dnajc2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000044224	Dnajc21	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000000826	Dnajc5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000054405	Dnajc8	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000044595	Dnd1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000026825	Dnm1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000004099	Dnmt1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000039756	Dnttip2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024067	Dpy30	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022304	Dpys	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022048	Dpysl2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024914	Drap1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020457	Drg1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000020537	Drg2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022191	Drosha	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000044322	Dsc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000069441	Dsg1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000061928	Dsg1b	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034774	Dsg1c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000054889	Dsp	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026131	Dst	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000015932	Dstn	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000027430	Dtd1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000007603	Dus3l	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000024190	Dusp1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000030002	Dusp11	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018648	Dusp14	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000003518	Dusp3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031383	Dusp9	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000027203	Dut	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000018707	Dync1h1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000027012	Dync1i2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032435	Dync1li1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000047193	Dync2h1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000009013	Dynll1	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000047459	Dynlrb1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000064061	Dzip3	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000028729	Ebna1bp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031168	Ebp	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000027699	Ect2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000038957	Edc3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036270	Edc4	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000015092	Edf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030619	Eed	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000037742	Eef1a1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000016349	Eef1a2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000025967	Eef1b2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000055762	Eef1d	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000071644	Eef1g	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000034994	Eef2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020929	Eftud2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053898	Ech1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035530	Eif1	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000057561	Eif1a	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000024841	Eif1ad	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000067194	Eif1ax	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000006941	Eif1b	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000027810	Eif2a	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000024079	Eif2ak2	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000041530	Eif2c1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000036698	Eif2c2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028842	Eif2c3	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026427	Eif2d	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000021116	Eif2s1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000074656	Eif2s2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035150	Eif2s3x	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024991	Eif3a	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000056076	Eif3b	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000030738	Eif3c	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000016554	Eif3d	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022336	Eif3e	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000070319	Eif3g	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022312	Eif3h	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000028798	Eif3i	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000027236	Eif3j	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000053565	Eif3k	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033047	Eif3l	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027170	Eif3m	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059796	Eif4a1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022884	Eif4a2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025580	Eif4a3	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000058655	Eif4b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028156	Eif4e	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000026254	Eif4e2	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000020454	Eif4enif1	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000045983	Eif4g1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005610	Eif4g2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028760	Eif4g3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040731	Eif4h	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021282	Eif5	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000078812	Eif5a	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000050192	Eif5a2	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000026083	Eif5b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027613	Eif6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020549	Elac2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040028	Elavl1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000008489	Elavl2	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000003410	Elavl3	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000028546	Elavl4	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000013822	Elof1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022031	Elp3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004268	Emg1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000032624	Eml4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022995	Enah	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000063524	Eno1	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000004267	Eno2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022012	Enox1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000038619	Ensa	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000055024	Ep300	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028906	Epb4.1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019978	Epb4.1l2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000029869	Ephb6	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000026615	Eprs	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000040600	Eps8l3	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000020832	Eral1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000054051	Ercc6	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000021131	Erh	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000031527	Eri1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000033423	Eri3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000051978	Erich1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000057069	Ero1lb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029616	Erp29	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000045624	Esf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000058290	Espl1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000040728	Esrp1	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000084128	Esrp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025366	Esyt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024360	Etf1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032314	Etfa	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000009079	Ewsr1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000036435	Exoc1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000034321	Exosc1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000017264	Exosc10	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000039356	Exosc2	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000028322	Exosc3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034259	Exosc4	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000061286	Exosc5	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027714	Exosc9	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000052397	Ezr	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038235	F11r	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000027533	Fabp5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024665	Fads2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000038646	Fam103a1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000029185	Fam114a1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038014	Fam120a	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000014763	Fam120b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025262	Fam120c	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026483	Fam129a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000058503	Fam133b	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000029461	Fam168a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037503	Fam168b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037210	Fam193a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021495	Fam193b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025732	Fam195a	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000061111	Fam195b	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000003039	Fam32a	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000014444	Fam38a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000032265	Fam46a	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000001962	Fam50a	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000002017	Fam98a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027349	Fam98b	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000025555	Farp1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000003808	Farsa	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000026245	Farsb	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000025153	Fasn	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028959	Fastk	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027086	Fastkd1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025962	Fastkd2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021532	Fastkd3	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000079043	Fastkd5	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000070047	Fat1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000038274	Fau	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000046865	Fbl	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000006219	Fblim1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027204	Fbn1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000043323	Fbrsl1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000042211	Fbxo38	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021243	Fcf1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021273	Fdft1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059743	Fdps	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000024742	Fen1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000026526	Fh1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029227	Fip1l1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003355	Fkbp11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020949	Fkbp3	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000030357	Fkbp4	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000019428	Fkbp8	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031328	Flna	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025278	Flnb	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000068699	Flnc	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029648	Flt1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000023911	Flywch2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000000838	Fmr1	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000026193	Fn1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000008200	Fnbp4	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000033487	Fndc3a	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000039286	Fndc3b	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000031590	Frg1	RNAbinding	RNAbinding	no evidence	no evidence
+ENSMUSG00000042425	Frmpd3	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000029581	Fscn1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000024661	Fth1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029557	Ftsj2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000020706	Ftsj3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028034	Fubp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026843	Fubp3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030795	Fus	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027680	Fxr1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018765	Fxr2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022800	Fyttd1	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000018583	G3bp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029405	G3bp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000089992	G6pd2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031400	G6pdx	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031950	Gabarapl2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033751	Gadd45gip1	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000062234	Gak	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020150	Gamt	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071650	Ganab	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026867	Gapvd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028010	Gar1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029777	Gars	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000022962	Gart	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000030498	Gas2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000074802	Gas2l3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021944	Gata4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027199	Gatm	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028124	Gclm	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000041638	Gcn1l1	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000021218	Gdi2	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000037275	Gemin5	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000027774	Gfm1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029992	Gfpt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020363	Gfpt2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000002797	Ggct	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000073987	Ggh	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029714	Gigyf1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000048000	Gigyf2	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000024827	Gldc	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024026	Glo1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021591	Glrx	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031068	Glrx3	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026103	Gls	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041560	Gltscr2	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000058064	Gm10036	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000061104	Gm10094	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000062093	Gm10110	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000062933	Gm10123	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000062279	Gm10237	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000092116	Gm10320	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000071532	Gm10335	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000073376	Gm10495	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000073521	Gm10525	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000073524	Gm10526	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000073525	Gm10527	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000073526	Gm10528	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000074826	Gm10767	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000044860	Gm1123	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000066107	Gm12666	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000078087	Gm15887	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000092065	Gm17241	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000091385	Gm17573	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000090286	Gm17615	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000091277	Gm1818	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000043192	Gm1840	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000090639	Gm20425	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000089945	Gm20459	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000092310	Gm20509	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000092232	Gm20521	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091999	Gm2858	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000079076	Gm3086	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000092059	Gm3109	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000056875	Gm3386	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078305	Gm3436	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000091498	Gm3452	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000091918	Gm4301	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091101	Gm4302	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000090421	Gm4303	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091715	Gm4305	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091170	Gm4307	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091145	Gm4308	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091915	Gm4312	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000090854	Gm4340	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000092072	Gm4540	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000090538	Gm4775	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000090987	Gm4781	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000092012	Gm4782	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000070308	Gm4893	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000068113	Gm4907	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000069379	Gm4950	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000090102	Gm4985	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000025922	Gm5045	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000066457	Gm5068	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000055676	Gm5069	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000071273	Gm5145	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000055795	Gm5160	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000050978	Gm5215	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000049249	Gm5316	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000069962	Gm5356	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042962	Gm5436	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000067657	Gm5474	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000059040	Gm5506	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000060125	Gm5528	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000063692	Gm5576	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000090602	Gm5611	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000062358	Gm5619	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000086151	Gm5698	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000087346	Gm5699	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000061848	Gm5805	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000053038	Gm6180	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000091233	Gm6434	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053740	Gm6457	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000057223	Gm6578	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000072585	Gm6616	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000091779	Gm6763	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000092086	Gm6793	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091230	Gm6970	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000067063	Gm6990	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000048164	Gm7204	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000063628	Gm7665	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071750	Gm7713	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000075609	Gm7935	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091981	Gm8038	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000048334	Gm8258	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000050490	Gm8394	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000073559	Gm8618	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000091739	Gm8701	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000063696	Gm8730	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000091335	Gm8766	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060680	Gm8894	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000064081	Gm8973	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000074684	Gm9049	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000058050	Gm9234	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000044424	Gm9493	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030735	Gm9755	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000043424	Gm9781	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000046620	Gm9808	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000048648	Gm9830	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000049230	Gm9833	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000050299	Gm9843	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000051723	Gm9858	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000053178	Gm9897	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000062014	Gmfb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033021	Gmppa	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000020372	Gnb2l1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024429	Gnl1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028869	Gnl2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042354	Gnl3	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000025266	Gnl3l	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026754	Golga1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000038708	Golga4	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000034243	Golgb1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021556	Golm1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030245	Golt1b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025190	Got1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031672	Got2	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000039210	Gpatch2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028069	Gpatch4	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000034621	Gpatch8	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000032745	Gpbp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036427	Gpi1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039116	Gpr126	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000075706	Gpx4	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000059923	Grb2	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000035637	Grhpr	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034708	Grn	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000044221	Grsf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053801	Grwd1	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000022575	Gsdmd	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000062203	Gspt1	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000071723	Gspt2	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000031584	Gsr	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004032	Gstm5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025068	Gsto1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000060803	Gstp1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000038155	Gstp2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000028271	Gtf2b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031585	Gtf2e2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000002658	Gtf2f1	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000060261	Gtf2i	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000031796	Gtl3	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000042535	Gtpbp1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000040464	Gtpbp10	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021149	Gtpbp4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029208	Guf1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019188	H13	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000044927	H1fx	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000015937	H2afy	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000021476	Habp4	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000027984	Hadh	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000025745	Hadha	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059447	Hadhb	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000019143	Hars2	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000069919	Hba-a1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000069917	Hba-a2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000052305	Hbb-b1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000073940	Hbb-b2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078621	Hbb-bh2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019977	Hbs1l	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000031386	Hcfc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019777	Hdac2	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000031161	Hdac6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000002833	Hdgfrp2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034088	Hdlbp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000050244	Heatr1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031657	Heatr3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000035181	Heatr5a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000976	Heatr6	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000035247	Hectd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020228	Helb	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000025001	Hells	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020721	Helz	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028940	Hes2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000048878	Hexim1	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000043372	Hexim2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022821	Hgd	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024986	Hhex	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025868	Higd2a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028470	Hint2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000049539	Hist1h1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000058773	Hist1h1b	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000036181	Hist1h1c	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000052565	Hist1h1d	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000051627	Hist1h1e	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000018102	Hist1h2bc	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000044783	Hjurp	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000000628	Hk2	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000002428	Hltf	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000066530	Hmg1l1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000032329	Hmg20a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000046711	Hmga1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078249	Hmga1-rs1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000056758	Hmga2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000054717	Hmgb2	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000031245	Hmgn5	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000020330	Hmmr	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000024165	Hn1l	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000007836	Hnrnpa0	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000046434	Hnrnpa1	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000004980	Hnrnpa2b1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000059005	Hnrnpa3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020358	Hnrnpab	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060373	Hnrnpc	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000000568	Hnrnpd	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042079	Hnrnpf	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000007850	Hnrnph1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000045427	Hnrnph2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020069	Hnrnph3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021546	Hnrnpk	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000015165	Hnrnpl	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000059208	Hnrnpm	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000066037	Hnrnpr	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039630	Hnrnpu	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040725	Hnrnpul1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000071659	Hnrnpul2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029328	Hnrpdl	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024095	Hnrpll	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000037234	Hook3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000690	Hoxb6	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028759	Hp1bp3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000043155	Hpdl	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022323	Hrsp12	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000025260	Hsd17b10	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000029311	Hsd17b11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027195	Hsd17b12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024507	Hsd17b4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021270	Hsp90aa1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023944	Hsp90ab1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020048	Hsp90b1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000091971	Hspa1a	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000090877	Hspa1b	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000020361	Hspa4	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000026864	Hspa5	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000015656	Hspa8	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024359	Hspa9	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000004951	Hspb1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000063172	Hspb11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041548	Hspb8	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000025980	Hspd1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000073676	Hspe1	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000028763	Hspg2	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000029657	Hsph1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000067873	Htatsf1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000025261	Huwe1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000023852	Chd1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000078671	Chd2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018474	Chd3	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000063870	Chd4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000052488	Cherp	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000063787	Chchd1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028419	Chmp5	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000001774	Chordc1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000056643	Chst13	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000046691	Chtf8	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000037851	Iars	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000026618	Iars2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035941	Ibtk	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037405	Icam1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025950	Idh1	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000030541	Idh2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000026535	Ifi202b	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000073489	Ifi204	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000054203	Ifi205	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000045932	Ifit2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000038564	Ift172	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000013415	Igf2bp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033581	Igf2bp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029814	Igf2bp3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024831	Ighmbp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036334	Igsf10	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024474	Ik	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000001741	Il16	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001016	Ilf2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032178	Ilf3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000052337	Immt	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000032288	Imp3	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026127	Imp4	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000024423	Impact	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000062867	Impdh2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000061859	Inadl	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028344	Invs	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000002319	Ipo4	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000030662	Ipo5	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000066232	Ipo7	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000040029	Ipo8	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021676	Iqgap2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032293	Ireb2	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000048039	Isg20l2	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000030056	Isy1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000038518	Jarid2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000052684	Jun	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000001552	Jup	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000031948	Kars	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000040606	Kazn	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000025893	Kbtbd3	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000054611	Kdm2a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029475	Kdm2b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028790	Khdrbs1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022332	Khdrbs3	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000007670	Khsrp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060012	Kif13b	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000027115	Kif18a	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000014602	Kif1a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000063077	Kif1b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020821	Kif1c	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030677	Kif22	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000006740	Kif5b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026764	Kif5c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000040263	Klhdc4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018362	Kpna2	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000027782	Kpna4	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000001440	Kpnb1	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000059832	Kprp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035047	Kri1	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000063334	Krr1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023043	Krt18	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000064201	Krt2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000075402	Krt76	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021843	Ktn1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026866	Kynu	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031391	L1cam	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000087166	L1td1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000032796	Lama1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015647	Lama5	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000039682	Lap3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000037331	Larp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025762	Larp1b	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000037814	Larp1b	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000023025	Larp4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033499	Larp4b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027968	Larp7	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024493	Lars	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000057421	Las1l	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038366	Lasp1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000015714	Lass2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004880	Lbr	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000063229	Ldha	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000030246	Ldhb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035545	Leng8	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000005299	Letm1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000068220	Lgals1	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000050335	Lgals3	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020697	Lig3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025239	Limd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037736	Limch1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000050966	Lin28a	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000063804	Lin28b	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000027162	Lin7c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020224	Llph	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022614	Lmf2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000028063	Lmna	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000041168	Lonp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033306	Lpp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000040249	Lrp1	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000024120	Lrpprc	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021338	Lrrc16a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000063052	Lrrc40	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029028	Lrrc47	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000020869	Lrrc59	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026305	Lrrfip1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022538	Lsg1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000037296	Lsm1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020922	Lsm12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000066568	Lsm14a	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000039108	Lsm14b	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000007050	Lsm2	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000090846	Lsm3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031848	Lsm4	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000091625	Lsm5	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031683	Lsm6	RNAbinding	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000015889	Lta4h	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000032496	Ltf	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027297	Ltk	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000052299	Ltn1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000019814	Ltv1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024188	Luc7l	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000029823	Luc7l2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020863	Luc7l3	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000067367	Lyar	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000028670	Lypla2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000069515	Lyz1	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000028649	Macf1	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000082033	Mageb10-ps	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035427	Mageb4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028609	Magoh	candidate RBP	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000030188	Magohb	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000031578	Mak16	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032575	Manf	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000026074	Map4k4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000016528	Mapkapk2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000027479	Mapre1	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000018411	Mapt	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000069662	Marcks	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000047945	Marcksl1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024969	Mark2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000046994	Mars2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000037236	Matr3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000037523	Mavs	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030678	Maz	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000027763	Mbnl1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000022139	Mbnl2	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000036109	Mbnl3	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000048755	Mcat	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000005410	Mcm5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029730	Mcm7	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000355	Mcts1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000020321	Mdh1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019179	Mdh2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027239	Mdk	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000058006	Mdn1	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000032418	Me1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031393	Mecp2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000027080	Med19	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000029726	Mepce	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038503	Mesdc2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000005813	Metap1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036112	Metap2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000010554	Mettl16	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000054619	Mettl7a1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000056487	Mettl7a2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000058057	Mettl7a3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000074480	Mex3a	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000057706	Mex3b	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000037253	Mex3c	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000048696	Mex3d	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000068479	Mfap1a	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000048222	Mfap1b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000054612	Mgmt	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000008540	Mgst1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000033307	Mif	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000022724	Mina	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000047534	Mis18bp1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031004	Mki67	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026377	Mki67ip	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029922	Mkrn1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000000439	Mkrn2	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000070527	Mkrn3	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000038056	Mll3	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000026536	Mnda	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000090272	Mndal	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000039616	Mocos	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000074576	Mocs3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000030036	Mogs	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000046487	Mospd4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000002227	Mov10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018761	Mpdu1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030521	Mphosph10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031843	Mphosph6	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000071711	Mpst	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018405	Mrm1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000021967	Mrp63	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000029486	Mrpl1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001445	Mrpl10	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000024902	Mrpl11	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039640	Mrpl12	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022370	Mrpl13	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023939	Mrpl14	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000033845	Mrpl15	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030879	Mrpl17	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000030045	Mrpl19	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000002767	Mrpl2	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000029066	Mrpl20	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000024829	Mrpl21	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000020514	Mrpl22	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000037772	Mrpl23	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000019710	Mrpl24	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024414	Mrpl27	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000024181	Mrpl28	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000032563	Mrpl3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026087	Mrpl30	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000015672	Mrpl32	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000029142	Mrpl33	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000034880	Mrpl34	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028622	Mrpl37	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000022889	Mrpl39	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000003299	Mrpl4	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022706	Mrpl40	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000036850	Mrpl41	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000062981	Mrpl42	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000025208	Mrpl43	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026248	Mrpl44	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000018882	Mrpl45	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030706	Mrpl48	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000007338	Mrpl49	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000044018	Mrpl50	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034932	Mrpl54	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028140	Mrpl9	RNAbinding	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000034729	Mrps10	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000030611	Mrps11	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000045948	Mrps12	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000058267	Mrps14	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028861	Mrps15	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000034211	Mrps17	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000023967	Mrps18a	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000024436	Mrps18b	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000016833	Mrps18c	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000035772	Mrps2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000054312	Mrps21	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000023723	Mrps23	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020477	Mrps24	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000014551	Mrps25	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000037740	Mrps26	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000041632	Mrps27	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000040269	Mrps28	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000021731	Mrps30	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000031533	Mrps31	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040112	Mrps35	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000027374	Mrps5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000046756	Mrps7	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060679	Mrps9	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000026887	Mrrf	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000028741	Mrto4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024151	Msh2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000005370	Msh6	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000054256	Msi1	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000069769	Msi2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031207	Msn	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000027254	Mtap1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015222	Mtap2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032479	Mtap4	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000064357	mt-Atp6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000064354	mt-Co2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022255	Mtdh	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040429	Mterf	candidate RBP	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000021519	Mterfd1	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000026273	Mterfd2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021048	Mthfd1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000040675	Mthfd1l	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000005667	Mthfd2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031816	Mthfsd	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027282	Mtch2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020459	Mtif2	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000064341	mt-Nd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000064367	mt-Nd5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032342	Mto1	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000024234	Mtpap	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028158	Mttp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000064068	Mtx1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059908	Mug1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030131	Mug2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042485	Mustn1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000040463	Mybbp1a	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028647	Mycbp	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000027201	Myef2	RNAbinding	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000020900	Myh10	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000018830	Myh11	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022443	Myh9	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000022836	Mylk	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000042678	Myo15	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000000631	Myo18a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000034593	Myo5a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000024049	Myom1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037795	N4bp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000063273	Naa15	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000044155	Naa38	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022698	Naa50	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000061315	Naca	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000014907	Naf1	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000012396	Nanog	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000058799	Nap1l1	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000059119	Nap1l4	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000024581	Napg	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024587	Nars	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000028693	Nasp	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000027185	Nat10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038252	Ncapd2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028330	Ncbp1	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000022774	Ncbp2	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026234	Ncl	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039804	Ncoa5	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000024056	Ndc80	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000005125	Ndrg1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000004558	Ndrg2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000036564	Ndrg4	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000023089	Ndufa5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028261	Ndufaf4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021606	Ndufs6	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024038	Ndufv3	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000032216	Nedd4	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000010376	Nedd8	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004891	Nes	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020716	Nf1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000030722	Nfatc2ip	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000029993	Nfu1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028423	Nfx1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000072889	Nfxl1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022204	Ngdn	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000047084	Ngrn	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000001056	Nhp2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000063480	Nhp2l1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021806	Nid2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000031917	Nip7	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000016409	Nkap	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000044149	Nkrf	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041309	Nkx6-2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000020692	Nle1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000078817	Nlrp12	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000027787	Nmd3	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000037601	Nme1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020857	Nme2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020936	Nmt1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000026643	Nmt2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000036285	Noa1	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000003848	Nob1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024999	Noc3l	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033294	Noc4l	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000061458	Nol10	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000018433	Nol11	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028430	Nol6	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000063200	Nol7	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000021392	Nol8	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028948	Nol9	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000015176	Nolc1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001569	Nom1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000030835	Nomo1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000031311	Nono	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000036693	Nop14	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000025869	Nop16	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038279	Nop2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027405	Nop56	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026020	Nop58	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003421	Nosip	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000021047	Nova1	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000030411	Nova2	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000021242	Npc2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000057113	Npm1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000056209	Npm3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032336	Nptn	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000003849	Nqo1	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000053510	Nrd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000060739	Nsa2	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000021488	Nsd1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000027455	Nsfl1c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021595	Nsun2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028706	Nsun4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000916	Nsun5	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031851	Ntpcr	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000035142	Nubpl	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030824	Nucb1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026434	Nucks1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000028851	Nudc	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036639	Nudt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032565	Nudt16	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022516	Nudt16l1	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000031754	Nudt21	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025817	Nudt5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022009	Nufip1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000037857	Nufip2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038759	Nup205	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000043858	Nup62	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000048439	Nupl2	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000027306	Nusap1	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026516	Nvl	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000010097	Nxf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042271	Nxt2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032690	Oas2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000041827	Oasl1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000026211	Obsl1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026790	Odf2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000049401	Ogfr	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027108	Ola1	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000024687	Osbp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036990	Otud4	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000036737	Oxsr1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000051048	P4ha3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025130	P4hb	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025364	Pa2g4	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000022283	Pabpc1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000054582	Pabpc1l	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000011257	Pabpc4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022194	Pabpn1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003131	Pafah1b2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005447	Pafah1b3	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000029247	Paics	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000025451	Paip1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000037058	Paip2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038683	Pak1ip1	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022781	Pak2	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000030602	Pak4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000014301	Pam16	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005682	Pan2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029647	Pan3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036779	Papd5	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000021911	Parg	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028964	Park7	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022685	Parn	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026496	Parp1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038507	Parp12	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000036023	Parp2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000030770	Parva	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000046139	Patl1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020453	Patz1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000035873	Pawr	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000047104	Pbp2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042613	Pbxip1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000051695	Pcbp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000056851	Pcbp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001120	Pcbp3	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000023495	Pcbp4	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000050505	Pcdh20	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000019795	Pcmt1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000027342	Pcna	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071533	Pcnp	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000044254	Pcsk9	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000024892	Pcx	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000029998	Pcyox1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029623	Pdap1	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000025047	Pdcd11	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000024975	Pdcd4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030417	Pdcd5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021576	Pdcd6	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000032504	Pdcd6ip	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038170	Pde4dip	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000021748	Pdhb	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027248	Pdia3	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000025823	Pdia4	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020571	Pdia6	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000055044	Pdlim1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028273	Pdlim5	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000029202	Pds5a	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000034021	Pds5b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032959	Pebp1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028779	Pef1	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000092035	Peg10	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000042275	Pelo	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000018921	Pelp1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000020430	Pes1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001289	Pfdn5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018293	Pfn1	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000028961	Pgd	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000062070	Pgk1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031233	Pgk2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000006373	Pgrmc1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000049940	Pgrmc2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000008301	Phax	candidate RBP	candidate RBP	no evidence	no evidence
+ENSMUSG00000038845	Phb	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000004264	Phb2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000023883	Phf10	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000048874	Phf3	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000061360	Phf5a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025626	Phf6	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000053398	Phgdh	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036504	Phpt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039361	Picalm	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032171	Pin1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000079480	Pin4	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000021958	Pinx1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000058499	Pip	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025417	Pip4k2c	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000050017	Pitpnb	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000032294	Pkm2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000004591	Pkn2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000026413	Pkp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029522	Pla2g1b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029322	Plac8	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022565	Plec	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000028494	Plin2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024197	Plin3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027998	Plrg1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000002963	Pnkp	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020994	Pnn	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020116	Pno1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000021871	Pnp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000068417	Pnp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020464	Pnpt1	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000041815	Poldip3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000049553	Polr1a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027395	Polr1b	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028318	Polr1e	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000005198	Polr2a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029250	Polr2b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020329	Polrmt	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022325	Pop1	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000029715	Pop7	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000020089	Ppa1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028013	Ppa2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004100	Ppan	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000036167	Pphln1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000071866	Ppia	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032383	Ppib	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000027804	Ppid	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028651	Ppie	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000021868	Ppif	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000042133	Ppig	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000015757	Ppil4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004455	Ppp1cc	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000039220	Ppp1r10	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000007564	Ppp2r1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039515	Ppp2r4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026626	Ppp2r5a	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028161	Ppp3ca	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024908	Ppp6r3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000055491	Pprc1	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000031157	Pqbp1	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000004895	Prcc	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028691	Prdx1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005161	Prdx2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000024997	Prdx3	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000025289	Prdx4	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000024953	Prdx5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026701	Prdx6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000050114	Prdx6b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019849	Prep	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032601	Prkar2a	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000022672	Prkdc	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000002731	Prkra	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000039737	Prkrip1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000052429	Prmt1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000031485	Prosc	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000039449	Prpf18	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024735	Prpf19	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015748	Prpf3	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000008373	Prpf31	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000063800	Prpf38a	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000027881	Prpf38b	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000061136	Prpf40a	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000021413	Prpf4b	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000002455	Prpf6	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020850	Prpf8	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038500	Prr3	candidate RBP	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000024393	Prrc2a	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000039262	Prrc2b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040225	Prrc2c	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004207	Psap	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000024640	Psat1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028484	Psip1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000060073	Psma3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032301	Psma4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021024	Psma6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000014769	Psmb1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000028837	Psmb2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000069744	Psmb3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022193	Psmb5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021178	Psmc1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000028932	Psmc2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000021832	Psmc6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026229	Psmd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000017428	Psmd11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000017221	Psmd3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005625	Psmd4	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021737	Psmd6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039067	Psmd7	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000029440	Psmd9	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022216	Psme1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000079197	Psme2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078153	Psme2b-ps	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021938	Pspc1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029446	Psph	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006498	Ptbp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028134	Ptbp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029624	Ptcd1	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000021650	Ptcd2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000063884	Ptcd3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021518	Ptdss1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000071072	Ptges3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000030122	Ptms	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000033629	Ptplad1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035376	Ptplb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027540	Ptpn1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021745	Ptprg	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000004044	Ptrf	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000053746	Ptrh1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000002524	Puf60	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028580	Pum1	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000020594	Pum2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000043991	Pura	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000091207	Purb	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000049184	Purg	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000029507	Pus1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000057541	Pus7	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033356	Pus7l	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000001785	Pwp1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000032834	Pwp2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032604	Qars	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000015806	Qdpr	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000062078	Qk	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000002825	Qtrt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034194	R3hcc1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000056211	R3hdm1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025404	R3hdm2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000047187	Rab2a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019173	Rab5c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000079477	Rab7	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001847	Rac1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000023015	Racgap1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028426	Rad23b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030346	Rad51ap1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027593	Raly	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039717	Ralyl	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029430	Ran	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005732	Ranbp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000003226	Ranbp2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000002372	Ranbp3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038807	Rap1gap2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000018848	Rars	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028292	Rars2	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000010205	Raver1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035275	Raver2	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000030779	Rbbp6	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000024570	Rbfa	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000033565	Rbfox2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031060	Rbm10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000089824	Rbm12	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000046667	Rbm12b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000006456	Rbm14	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000048109	Rbm15	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000045365	Rbm15b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000037197	Rbm17	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000026889	Rbm18	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029594	Rbm19	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024604	Rbm22	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038132	Rbm24	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000010608	Rbm25	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022119	Rbm26	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024491	Rbm27	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029701	Rbm28	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031167	Rbm3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000048271	Rbm33	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000033931	Rbm34	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027510	Rbm38	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027620	Rbm39	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000036733	Rbm42	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000042369	Rbm45	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033882	Rbm46	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000070780	Rbm47	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033760	Rbm4b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032580	Rbm5	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000032582	Rbm6	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042396	Rbm7	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000038374	Rbm8a	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000026970	Rbms1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040043	Rbms2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039607	Rbms3	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000031134	Rbmx	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000031107	Rbmx2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000037070	Rbmxl1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000073894	Rbmxl2	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000031586	Rbpms	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032387	Rbpms2	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000040423	Rc3h1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000075376	Rc3h2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040945	Rcc2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024785	Rcl1	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000024369	Rdbp	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000066441	Rdh11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032050	Rdx	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000033762	Recql4	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000035504	Reep6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000052751	Repin1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029048	Rer1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029249	Rest	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000052406	Rexo4	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000044763	Rg9mtd1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004127	Rg9mtd2	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000024143	Rhoq	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036202	Rif1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000041670	Rims1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000021428	Riok1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000023846	Riok2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000035896	Rnase1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021880	Rnase6	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020630	Rnaseh1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041740	Rnf10	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000042790	Rnf214	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026171	Rnf25	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029130	Rnf32	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000038650	Rnh1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000009535	Rnmt	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000038046	Rnmtl1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027981	Rnpc3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000034681	Rnps1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000020580	Rock2	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028382	Rod1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032239	Rp9	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000000751	Rpa1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028187	Rpf1	RNAbinding	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000038510	Rpf2	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000031174	Rpgr	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000008682	Rpl10	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000037805	Rpl10a	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000058443	Rpl10-ps3	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000000740	Rpl13	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000062083	Rpl13a-ps1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000059835	Rpl13-ps3	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000025794	Rpl14	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000012405	Rpl15	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000062328	Rpl17	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000059070	Rpl18	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000045128	Rpl18a	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000017404	Rpl19	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000041453	Rpl21	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000028936	Rpl22	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039221	Rpl22l1	RNAbinding	candidate RBP	no evidence	no evidence
+ENSMUSG00000071415	Rpl23	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000058546	Rpl23a	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000078126	Rpl23a-ps3	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022601	Rpl24	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000060938	Rpl26	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000063316	Rpl27	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000046364	Rpl27a	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000061488	Rpl27a-ps1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000030432	Rpl28	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000048758	Rpl29	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000060036	Rpl3	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000058600	Rpl30	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000090753	Rpl31-ps4	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000057841	Rpl32	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000062997	Rpl35	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000057863	Rpl36	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000079435	Rpl36a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000046330	Rpl37a	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000057322	Rpl38	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000032399	Rpl4	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000058558	Rpl5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029614	Rpl6	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000063888	Rpl7l1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000003970	Rpl8	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000047215	Rpl9	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000007892	Rplp1	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000025508	Rplp2	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000030062	Rpn1	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000027642	Rpn2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000062309	Rpp25	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000024800	Rpp30	RNAbinding	RNAbinding	no evidence	no evidence
+ENSMUSG00000028106	Rprd2	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000052146	Rps10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003429	Rps11	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000061983	Rps12	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000058518	Rps12-ps2	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000090862	Rps13	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000066362	Rps13-ps1	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000024608	Rps14	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000063457	Rps15	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000008683	Rps15a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000037563	Rps16	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000008668	Rps18	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000040952	Rps19	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000051518	Rps19bp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000044533	Rps2	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000028234	Rps20	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039001	Rps21	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000049517	Rps23	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000025290	Rps24	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000009927	Rps25	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000025362	Rps26	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000020460	Rps27a	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000058838	Rps27a-ps2	no evidence	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000036781	Rps27l	RNAbinding	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000067288	Rps28	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030744	Rps3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028081	Rps3a	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000031320	Rps4x	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000063171	Rps4y2	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000012848	Rps5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028495	Rps6	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000061477	Rps7	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000047675	Rps8	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000006333	Rps9	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032518	Rpsa	RNAbinding	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000047676	Rpsa-ps10	no evidence	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000025583	Rptor	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027324	Rpusd2	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000051169	Rpusd3	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000032044	Rpusd4	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000026174	Rqcd1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000027422	Rrbp1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000061032	Rrp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035049	Rrp12	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001305	Rrp15	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000058392	Rrp1b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000023971	Rrp36	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018040	Rrp7a	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000030888	Rrp8	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041506	Rrp9	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000061024	Rrs1	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000005846	Rsl1d1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032215	Rsl24d1	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000029422	Rsrc2	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000000339	Rtcd1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000027304	Rtf1	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000024758	Rtn3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020458	Rtn4	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000030079	Ruvbl1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000019782	Rwdd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031568	Rwdd4a	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000027907	S100a11	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000074457	S100a16	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000001020	S100a4	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000056054	S100a8	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000056071	S100a9	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071054	Safb	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042625	Safb2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021838	Samd4	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000037513	Samd4b	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000047735	Samd9l	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022876	Samsn1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000021963	Sap18	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000009614	Sardh	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078427	Sarnp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000068739	Sars	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000070699	Sars2	no evidence	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000039148	Sart1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000018974	Sart3	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000025337	Sbds	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000046056	Sbsn	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038406	Scaf1	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000033228	Scaf11	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022983	Scaf4	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000046201	Scaf8	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000040188	Scamp2	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000028049	Scamp3	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000046229	Scand1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000034007	Scaper	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020952	Scfd1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032181	Scg3	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000028603	Scp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024941	Scyl1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029415	Sdad1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000021577	Sdha	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000009863	Sdhb	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026924	Sec16a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020986	Sec23a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000055319	Sec23ip	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000039367	Sec24c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035325	Sec31a	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000030082	Sec61a1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000053317	Sec61b	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000027706	Sec62	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000019802	Sec63	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000035139	Secisbp2	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000035093	Secisbp2l	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005204	Senp3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000036371	Serbp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000066366	Serpina1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071178	Serpina1b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000079015	Serpina1c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071177	Serpina1d	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000072849	Serpina1e	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000070436	Serpinh1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000034139	Serpini2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000054766	Set	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000044791	Setd2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024949	Sf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002129	Sf3a1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020211	Sf3a2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028902	Sf3a3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025982	Sf3b1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024853	Sf3b2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033732	Sf3b3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000068856	Sf3b4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028820	Sfpq	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028248	Sfrs18	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000003200	Sh3gl1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000040711	Sh3pxd2b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042626	Shc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025403	Shmt2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000016018	Skiv2l2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000036309	Skp1a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004642	Slbp	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000032902	Slc16a1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025161	Slc16a3	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000001918	Slc1a5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000003528	Slc25a1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000014606	Slc25a11	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000061904	Slc25a3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000016319	Slc25a5	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000023942	Slc29a1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000024891	Slc29a2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005107	Slc2a9	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028293	Slc35a1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022094	Slc39a14	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000010095	Slc3a2	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020733	Slc9a3r1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032212	Sltm	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031099	Smarca1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031715	Smarca5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029920	Smarcad1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000041133	Smc1a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000049323	Smcr8	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000001415	Smg5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038290	Smg6	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000025024	Smndc1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000029280	Smr3a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036061	Smug1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000001424	Snd1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000050213	Snip1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000003660	Snrnp200	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000074088	Snrnp40	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000063511	Snrnp70	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000061479	Snrpa	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000030512	Snrpa1	RNAbinding	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000027404	Snrpb	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000008333	Snrpb2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000024217	Snrpc	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000002477	Snrpd1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000040824	Snrpd2	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000020180	Snrpd3	RNAbinding	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000090553	Snrpe	RNAbinding	candidate RBP	no evidence	no evidence
+ENSMUSG00000020018	Snrpf	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000057278	Snrpg	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000000948	Snrpn	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000041308	Sntb2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021039	Snw1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000038248	Sobp	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022982	Sod1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022961	Son	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000025006	Sorbs1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031626	Sorbs2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000045179	Sox3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000027722	Spata5	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000051934	Spats2	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000038305	Spats2l	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040761	Spen	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000057738	Spna2	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000021061	Spnb1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000020315	Spnb2	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000067889	Spnb3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000011751	Spnb4	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000074899	Spnb5	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000049516	Spty2d1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000015837	Sqstm1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024135	Srbd1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000032621	Srek1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000021716	Srek1ip1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024528	Srfbp1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000003161	Sri	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000009549	Srp14	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000014504	Srp19	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000021020	Srp54a	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000079108	Srp54b	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000073079	Srp54c	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020780	Srp68	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000036323	Srp72	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004865	Srpk1	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000062604	Srpk2	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000032042	Srpr	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000032553	Srprb	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000028809	Srrm1	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000039218	Srrm2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000037364	Srrt	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018379	Srsf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028676	Srsf10	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000055436	Srsf11	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000054679	Srsf12	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000034120	Srsf2	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000093603	Srsf2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000071172	Srsf3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028911	Srsf4	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021134	Srsf5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000016921	Srsf6	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024097	Srsf7	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029538	Srsf9	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000068882	Ssb	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029911	Ssbp1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021427	Ssr1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000027067	Ssrp1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030688	Stard10	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004040	Stat3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000039536	Stau1	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000025920	Stau2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024966	Stip1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000028832	Stmn1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000030224	Strap	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026915	Strbp	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032116	Stt3a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000032437	Stt3b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028879	Stx12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000019998	Stx7	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000026797	Stxbp1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000022205	Sub1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000052738	Suclg1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000011306	Sugp1	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000036054	Sugp2	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000026021	Sumo1	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000020738	Sumo2	no evidence	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000020265	Sumo3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000035726	Supt16h	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000003435	Supt5h	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000002052	Supt6h	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020079	Supv3l1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000014873	Surf2	RNAbinding	candidate RBP	no evidence	no evidence
+ENSMUSG00000014867	Surf4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036160	Surf6	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031357	Syap1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033409	Syce1l	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028821	Syf2	RNAbinding	RNAbinding	RNAbinding	no evidence
+ENSMUSG00000032423	Syncrip	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000019769	Syne1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000020570	Sypl	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000065954	Tacc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001983	Taco1	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000020680	Taf15	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000051316	Taf7	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000032085	Tagln	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000026547	Tagln2	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000023051	Tarbp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000041459	Tardbp	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022241	Tars	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000004535	Tax1bp1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000033083	Tbc1d4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000042043	Tbca	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000005374	Tbl2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000040688	Tbl3	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000000384	Tbrg4	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000033813	Tcea1	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000001604	Tcea3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028668	Tceb3	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000024498	Tcerg1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041852	Tcf20	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000001472	Tcf25	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000024613	Tcof1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000068039	Tcp1	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000021953	Tdh	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000021177	Tdp1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000022019	Tdrd3	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035517	Tdrd7	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031708	Tecr	no evidence	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000029552	Tes	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000040943	Tet2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028345	Tex10	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000003923	Tfam	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000036983	Tfb1m	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026492	Tfb2m	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000009733	Tfcp2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022797	Tfrc	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000037475	Thoc2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000004929	Thop1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000043962	Thrap3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030942	Thumpd1	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000030264	Thumpd3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000071337	Tia1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030846	Tial1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000024812	Tjp2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021957	Tkt	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000031397	Tktl1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028465	Tln1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000052698	Tln2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025544	Tm9sf2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025016	Tm9sf3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000052428	Tmco1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021248	Tmed10	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000058569	Tmed9	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034659	Tmem109	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026116	Tmem131	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000012422	Tmem167	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038828	Tmem214	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000028826	Tmem57	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000030059	Tmf1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000019961	Tmpo	candidate RBP	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000021072	Tmx1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028364	Tnc	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000033955	Tnks1bp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000009470	Tnpo1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031691	Tnpo2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000012535	Tnpo3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000052707	Tnrc6a	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000047888	Tnrc6b	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000025571	Tnrc6c	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000055322	Tns1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000028688	Toe1	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022427	Tomm22	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000078713	Tomm5	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000070544	Top1	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000020914	Top2a	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000017485	Top2b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000002814	Top3a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022779	Top3b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027506	Tpd52	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000827	Tpd52l2	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000023456	Tpi1	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000014846	Tppp3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000006005	Tpr	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000060126	Tpt1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000027469	Tpx2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029817	Tra2a	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022858	Tra2b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000019842	Traf3ip2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000005981	Trap1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000032554	Trf	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000000275	Trim25	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000005566	Trim28	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000043279	Trim56	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000079259	Trim71	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000026219	Trip12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000023348	Trip6	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000001909	Trmt1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000022721	Trmt2a	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000037376	Trmt6	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000060950	Trmt61a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000028898	Trnau1ap	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018199	Trove2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000059552	Trp53	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000047656	Trpt1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000025086	Trub1	candidate RBP	no evidence	no evidence	RNAbinding
+ENSMUSG00000039826	Trub2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000071521	Try10	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000042389	Tsen2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000040521	Tsfm	candidate RBP	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000026374	Tsn	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000056820	Tsnax	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000038335	Tsr1	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000090100	Ttbk2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026803	Ttf1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000067338	Tuba3b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000021216	Tubal3	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000036752	Tubb4b	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000001525	Tubb5	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000073838	Tufm	no evidence	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000071645	Tut1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000023277	Twf2	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020561	Twistnb	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000038344	Txlng	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028367	Txn1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000005354	Txn2	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000038991	Txndc5	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000020250	Txnrd1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000061613	U2af1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000030435	U2af2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000001924	Uba1	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000052997	Uba2	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028433	Ubap2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000042520	Ubap2l	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000008348	Ubc	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000001403	Ube2c	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000019927	Ube2d1	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000015120	Ube2i	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029203	Ube2k	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000038965	Ube2l3	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000074781	Ube2n	candidate RBP	no evidence	RNAbinding	no evidence
+ENSMUSG00000020802	Ube2o	no evidence	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000060860	Ube2s	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000026429	Ube2t	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030870	Ubfd1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000041231	Ublcp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000005312	Ubqln1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000066036	Ubr4	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000020923	Ubtf	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000026353	Ubxn4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000027746	Ufm1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029201	Ugdh	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000001228	Uhrf1	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000029223	Uchl1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000022111	Uchl3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035337	Uchl4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018189	Uchl5	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000020770	Unk	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000058301	Upf1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000043241	Upf2	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000038398	Upf3a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000036572	Upf3b	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000039929	Urb1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000031976	Urb2	RNAbinding	candidate RBP	no evidence	RNAbinding
+ENSMUSG00000029407	Uso1	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000031826	Usp10	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000047879	Usp14	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000006676	Usp19	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000028514	Usp24	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033909	Usp36	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000056305	Usp39	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000051306	Usp42	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000031010	Usp9x	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000028907	Utp11l	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000063785	Utp14a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000079470	Utp14b	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000041747	Utp15	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000054079	Utp18	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000004356	Utp20	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022313	Utp23	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000070697	Utp3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035575	Utp6	RNAbinding	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000026696	Vamp4	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024091	Vapa	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000030403	Vasp	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034993	Vat1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000021823	Vcl	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000028452	Vcp	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000020402	Vdac1	candidate RBP	no evidence	no evidence	candidate RBP
+ENSMUSG00000021771	Vdac2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000008892	Vdac3	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026175	Vil1	no evidence	no evidence	no evidence	RNAbinding
+ENSMUSG00000026728	Vim	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000066735	Vkorc1l1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000018171	Vmp1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000009907	Vps4b	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000024283	Wac	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000004233	Wars2	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000030216	Wbp11	candidate RBP	no evidence	RNAbinding	RNAbinding
+ENSMUSG00000061979	Wbscr16	no evidence	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000005378	Wbscr22	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000026019	Wdr12	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000033285	Wdr3	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000024400	Wdr33	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000038299	Wdr36	RNAbinding	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000041057	Wdr43	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000024312	Wdr46	RNAbinding	no evidence	RNAbinding	no evidence
+ENSMUSG00000042660	Wdr55	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000066357	Wdr6	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000042729	Wdr74	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000025995	Wdr75	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000064030	Wibg	RNAbinding	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000045962	Wnk1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000031583	Wrn	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000079243	Xirp1	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000022401	Xpnpep3	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000020290	Xpo1	RNAbinding	no evidence	no evidence	candidate RBP
+ENSMUSG00000067150	Xpo5	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000051768	Xrcc1	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000026187	Xrcc5	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022471	Xrcc6	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000032410	Xrn1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027433	Xrn2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000053110	Yap1	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000028811	Yars	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000022792	Yars2	RNAbinding	candidate RBP	RNAbinding	candidate RBP
+ENSMUSG00000028639	Ybx1	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000018554	Ybx2	RNAbinding	no evidence	no evidence	RNAbinding
+ENSMUSG00000071074	Yipf3	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000021244	Ylpm1	candidate RBP	candidate RBP	RNAbinding	RNAbinding
+ENSMUSG00000035851	Ythdc1	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000034653	Ythdc2	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000038848	Ythdf1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000040025	Ythdf2	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000047213	Ythdf3	RNAbinding	no homologue	no homologue	no homologue
+ENSMUSG00000018326	Ywhab	candidate RBP	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000020849	Ywhae	candidate RBP	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000051391	Ywhag	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000018965	Ywhah	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000076432	Ywhaq	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022285	Ywhaz	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000039810	Zc3h10	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000026464	Zc3h11a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000042677	Zc3h12a	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000022000	Zc3h13	candidate RBP	candidate RBP	RNAbinding	no evidence
+ENSMUSG00000021012	Zc3h14	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027091	Zc3h15	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000017478	Zc3h18	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000059273	Zc3h4	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000037965	Zc3h7a	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000022390	Zc3h7b	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027387	Zc3h8	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029826	Zc3hav1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000047749	Zc3hav1l	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000034610	Zcchc11	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000028772	Zcchc17	candidate RBP	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000055538	Zcchc24	no evidence	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000074682	Zcchc3	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000029179	Zcchc4	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000035248	Zcchc6	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000035649	Zcchc7	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000029427	Zcchc8	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000021621	Zcchc9	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000022635	Zcrb1	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000034163	Zfc3h1	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000040721	Zfhx2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000030016	Zfml	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027288	Zfp106	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000026135	Zfp142	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000022228	Zfp187	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000017421	Zfp207	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000055917	Zfp277	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000029290	Zfp326	candidate RBP	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000021481	Zfp346	candidate RBP	no evidence	RNAbinding	candidate RBP
+ENSMUSG00000044786	Zfp36	no evidence	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000021127	Zfp36l1	candidate RBP	RNAbinding	no evidence	candidate RBP
+ENSMUSG00000045817	Zfp36l2	RNAbinding	RNAbinding	no evidence	RNAbinding
+ENSMUSG00000000552	Zfp385a	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000014198	Zfp385c	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000044876	Zfp444	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000051550	Zfp579	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000028840	Zfp593	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000041130	Zfp598	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000052253	Zfp622	candidate RBP	RNAbinding	no evidence	no evidence
+ENSMUSG00000049728	Zfp668	no evidence	candidate RBP	no evidence	candidate RBP
+ENSMUSG00000037243	Zfp692	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000062397	Zfp706	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000047371	Zfp768	no evidence	no evidence	RNAbinding	no evidence
+ENSMUSG00000046792	Zfp787	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000039841	Zfp800	no evidence	no evidence	no evidence	candidate RBP
+ENSMUSG00000074867	Zfp808	candidate RBP	no homologue	no homologue	no homologue
+ENSMUSG00000058192	Zfp846	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000024695	Zfp91	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000071262	Zfp957	no evidence	RNAbinding	no evidence	no evidence
+ENSMUSG00000022306	Zfpm2	no evidence	candidate RBP	no evidence	no evidence
+ENSMUSG00000022201	Zfr	RNAbinding	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000027663	Zmat3	RNAbinding	RNAbinding	no evidence	no evidence
+ENSMUSG00000039501	Znfx1	no evidence	RNAbinding	RNAbinding	RNAbinding
+ENSMUSG00000074182	Znhit6	RNAbinding	no evidence	no evidence	no evidence
+ENSMUSG00000028180	Zranb2	RNAbinding	RNAbinding	RNAbinding	candidate RBP
+ENSMUSG00000023902	Zscan10	candidate RBP	no evidence	no evidence	no evidence
+ENSMUSG00000029860	Zyx	no evidence	RNAbinding	no evidence	candidate RBP
